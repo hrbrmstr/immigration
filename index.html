@@ -95,7 +95,10 @@ div.tooltip {
   text-align: left;
   width: 150px;
   height: 40px;
-  padding: 4px;
+  padding-top: 8px;
+  padding-left: 6px;
+  padding-right: 4px;
+  padding-bottom: 4px;
   font: 12px sans-serif;
   background: white;
   border: 0.5px solid #2b2b2b;
@@ -237,6 +240,13 @@ svg.selectAll('.series')
      .attr("stroke", "white")
      .attr("stroke-width", "0.5px") // <======= change this for thicker white lines
      .style("fill", d => color(c2c(d.key)))
+     .style("opacity", 0.65) // <== can change this for a lighter start color
+     .on("mouseleave", (_, i, n) => {
+        d3.select(d3.event.currentTarget).style("opacity", 0.65) // <== can change this for a lighter start color
+     })
+     .on("mouseenter", (d) => {
+       d3.select(d3.event.currentTarget).style("opacity", 1.0)  // <== full opacity color
+     })
      .on('mousemove', (d, i) => {
 
         // To make the tooltips we have to know what the underlying data is.
@@ -268,7 +278,7 @@ svg.selectAll('.series')
           if (!(typeof vis_data[yr_idx] === 'undefined')) {
             var tmp = vis_data[yr_idx];
             if (!(typeof tmp[d.key] === 'undefined')) {
-              pct = d3.format(".3%")(tmp[d.key]); // <========== change this for more precision
+              pct = d3.format(".2%")(tmp[d.key]); // <========== change this for more precision
             }
           } 
 
