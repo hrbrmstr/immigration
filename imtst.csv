@@ -1,0 +1,2326 @@
+year,country,continent,percent
+1850-01-01,Unknown/Other,Unknown/Other,0
+1860-01-01,Unknown/Other,Unknown/Other,0
+1870-01-01,Unknown/Other,Unknown/Other,0
+1880-01-01,Unknown/Other,Unknown/Other,0
+1900-01-01,Unknown/Other,Unknown/Other,0
+1910-01-01,Unknown/Other,Unknown/Other,0
+1920-01-01,Unknown/Other,Unknown/Other,0.1
+1930-01-01,Unknown/Other,Unknown/Other,0.3
+1940-01-01,Unknown/Other,Unknown/Other,0
+1950-01-01,Unknown/Other,Unknown/Other,0.9
+1960-01-01,Unknown/Other,Unknown/Other,0.4
+1970-01-01,Unknown/Other,Unknown/Other,0.3
+1980-01-01,Unknown/Other,Unknown/Other,0.8
+1990-01-01,Unknown/Other,Unknown/Other,1
+2000-01-01,Unknown/Other,Unknown/Other,0
+2001-01-01,Unknown/Other,Unknown/Other,0
+2002-01-01,Unknown/Other,Unknown/Other,0
+2003-01-01,Unknown/Other,Unknown/Other,0
+2004-01-01,Unknown/Other,Unknown/Other,0
+2005-01-01,Unknown/Other,Unknown/Other,0
+2006-01-01,Unknown/Other,Unknown/Other,0
+2007-01-01,Unknown/Other,Unknown/Other,0
+2008-01-01,Unknown/Other,Unknown/Other,0
+2009-01-01,Unknown/Other,Unknown/Other,0
+2010-01-01,Unknown/Other,Unknown/Other,0
+2011-01-01,Unknown/Other,Unknown/Other,0
+2012-01-01,Unknown/Other,Unknown/Other,0
+2013-01-01,Unknown/Other,Unknown/Other,0
+2014-01-01,Unknown/Other,Unknown/Other,0
+2015-01-01,Unknown/Other,Unknown/Other,0
+2016-01-01,Unknown/Other,Unknown/Other,0
+1850-01-01,Oceania,Oceania,0
+1860-01-01,Oceania,Oceania,0.1
+1870-01-01,Oceania,Oceania,0.2
+1880-01-01,Oceania,Oceania,0.3
+1900-01-01,Oceania,Oceania,0.2
+1910-01-01,Oceania,Oceania,0.1
+1920-01-01,Oceania,Oceania,0.1
+1930-01-01,Oceania,Oceania,0.1
+1940-01-01,Oceania,Oceania,0.1
+1950-01-01,Oceania,Oceania,0.1
+1960-01-01,Oceania,Oceania,0.1
+1970-01-01,Oceania,Oceania,0.1
+1980-01-01,Oceania,Oceania,0.2
+1990-01-01,Oceania,Oceania,0.2
+2000-01-01,Oceania,Oceania,0.2
+2001-01-01,Oceania,Oceania,0.3
+2002-01-01,Oceania,Oceania,0.2
+2003-01-01,Oceania,Oceania,0.2
+2004-01-01,Oceania,Oceania,0.2
+2005-01-01,Oceania,Oceania,0.2
+2006-01-01,Oceania,Oceania,0.2
+2007-01-01,Oceania,Oceania,0.2
+2008-01-01,Oceania,Oceania,0.2
+2009-01-01,Oceania,Oceania,0.2
+2010-01-01,Oceania,Oceania,0.2
+2011-01-01,Oceania,Oceania,0.2
+2012-01-01,Oceania,Oceania,0.2
+2013-01-01,Oceania,Oceania,0.2
+2014-01-01,Oceania,Oceania,0.2
+2015-01-01,Oceania,Oceania,0.2
+2016-01-01,Oceania,Oceania,0.2
+1850-01-01,South America,South America,1.2
+1860-01-01,South America,South America,0.5
+1870-01-01,South America,South America,0.5
+1880-01-01,South America,South America,0.3
+1900-01-01,South America,South America,0.1
+1910-01-01,South America,South America,0.1
+1920-01-01,South America,South America,0.2
+1930-01-01,South America,South America,0.2
+1940-01-01,South America,South America,0.2
+1950-01-01,South America,South America,0.2
+1960-01-01,South America,South America,0.3
+1970-01-01,South America,South America,0.8
+1980-01-01,South America,South America,1.4
+1990-01-01,South America,South America,2.7
+2000-01-01,South America,South America,3
+2001-01-01,South America,South America,3
+2002-01-01,South America,South America,3.1
+2003-01-01,South America,South America,3.1
+2004-01-01,South America,South America,3.2
+2005-01-01,South America,South America,3.1
+2006-01-01,South America,South America,3.1
+2007-01-01,South America,South America,3.2
+2008-01-01,South America,South America,3.1
+2009-01-01,South America,South America,3.2
+2010-01-01,South America,South America,3.2
+2011-01-01,South America,South America,3.2
+2012-01-01,South America,South America,3.3
+2013-01-01,South America,South America,3.2
+2014-01-01,South America,South America,3.1
+2015-01-01,South America,South America,3.1
+2016-01-01,South America,South America,3.2
+1850-01-01,Canada,North America,1.2
+1850-01-01,Mexico,North America,9.9
+1850-01-01,Other North America,North America,0
+1860-01-01,Canada,North America,1.5
+1860-01-01,Mexico,North America,2.8
+1860-01-01,Other North America,North America,0
+1870-01-01,Canada,North America,2.4
+1870-01-01,Mexico,North America,2
+1870-01-01,Other North America,North America,0
+1880-01-01,Canada,North America,2.2
+1880-01-01,Mexico,North America,1
+1880-01-01,Other North America,North America,0
+1900-01-01,Canada,North America,2.1
+1900-01-01,Mexico,North America,0.5
+1900-01-01,Other North America,North America,0
+1910-01-01,Canada,North America,2.1
+1910-01-01,Mexico,North America,1.5
+1910-01-01,Other North America,North America,0
+1920-01-01,Canada,North America,1.9
+1920-01-01,Mexico,North America,2.5
+1920-01-01,Other North America,North America,0
+1930-01-01,Canada,North America,1.8
+1930-01-01,Mexico,North America,3.5
+1930-01-01,Other North America,North America,0
+1940-01-01,Canada,North America,1.5
+1940-01-01,Mexico,North America,2.1
+1940-01-01,Other North America,North America,0
+1950-01-01,Canada,North America,1.2
+1950-01-01,Mexico,North America,1.6
+1950-01-01,Other North America,North America,0
+1960-01-01,Canada,North America,1
+1960-01-01,Mexico,North America,1.6
+1960-01-01,Other North America,North America,0
+1970-01-01,Canada,North America,1
+1970-01-01,Mexico,North America,2.2
+1970-01-01,Other North America,North America,0
+1980-01-01,Canada,North America,0.7
+1980-01-01,Mexico,North America,5.4
+1980-01-01,Other North America,North America,0
+1990-01-01,Canada,North America,0.6
+1990-01-01,Mexico,North America,8.4
+1990-01-01,Other North America,North America,0
+2000-01-01,Canada,North America,0.5
+2000-01-01,Mexico,North America,11.7
+2000-01-01,Other North America,North America,0
+2001-01-01,Canada,North America,0.5
+2001-01-01,Mexico,North America,11.6
+2001-01-01,Other North America,North America,0
+2002-01-01,Canada,North America,0.5
+2002-01-01,Mexico,North America,11.9
+2002-01-01,Other North America,North America,0
+2003-01-01,Canada,North America,0.4
+2003-01-01,Mexico,North America,11.6
+2003-01-01,Other North America,North America,0
+2004-01-01,Canada,North America,0.5
+2004-01-01,Mexico,North America,11.7
+2004-01-01,Other North America,North America,0
+2005-01-01,Canada,North America,0.4
+2005-01-01,Mexico,North America,12.2
+2005-01-01,Other North America,North America,0
+2006-01-01,Canada,North America,0.4
+2006-01-01,Mexico,North America,12.2
+2006-01-01,Other North America,North America,0
+2007-01-01,Canada,North America,0.4
+2007-01-01,Mexico,North America,12.3
+2007-01-01,Other North America,North America,0
+2008-01-01,Canada,North America,0.4
+2008-01-01,Mexico,North America,11.8
+2008-01-01,Other North America,North America,0
+2009-01-01,Canada,North America,0.4
+2009-01-01,Mexico,North America,11.8
+2009-01-01,Other North America,North America,0
+2010-01-01,Canada,North America,0.4
+2010-01-01,Mexico,North America,11.8
+2010-01-01,Other North America,North America,0
+2011-01-01,Canada,North America,0.3
+2011-01-01,Mexico,North America,11.5
+2011-01-01,Other North America,North America,0
+2012-01-01,Canada,North America,0.4
+2012-01-01,Mexico,North America,11.3
+2012-01-01,Other North America,North America,0
+2013-01-01,Canada,North America,0.4
+2013-01-01,Mexico,North America,11.2
+2013-01-01,Other North America,North America,0
+2014-01-01,Canada,North America,0.4
+2014-01-01,Mexico,North America,11.3
+2014-01-01,Other North America,North America,0
+2015-01-01,Canada,North America,0.4
+2015-01-01,Mexico,North America,11.2
+2015-01-01,Other North America,North America,0
+2016-01-01,Canada,North America,0.4
+2016-01-01,Mexico,North America,11.1
+2016-01-01,Other North America,North America,0
+1850-01-01,Albania,Europe,0
+1850-01-01,Andorra,Europe,0
+1850-01-01,Austria,Europe,0
+1850-01-01,Belgium,Europe,0.1
+1850-01-01,Bulgaria,Europe,0
+1850-01-01,Czechoslovakia,Europe,0
+1850-01-01,Denmark,Europe,0
+1850-01-01,England,Europe,2.4
+1850-01-01,Estonia,Europe,0
+1850-01-01,Finland,Europe,0
+1850-01-01,France,Europe,2.5
+1850-01-01,Germany,Europe,3.2
+1850-01-01,Gibraltar,Europe,0
+1850-01-01,Greece,Europe,0
+1850-01-01,Hungary,Europe,0
+1850-01-01,Iceland,Europe,0
+1850-01-01,Ireland,Europe,4.2
+1850-01-01,Italy,Europe,0.1
+1850-01-01,Latvia,Europe,0
+1850-01-01,Liechtenstein,Europe,0
+1850-01-01,Lithuania,Europe,0
+1850-01-01,Luxembourg,Europe,0
+1850-01-01,Malta,Europe,0
+1850-01-01,Monaco,Europe,0
+1850-01-01,Netherlands,Europe,0.4
+1850-01-01,Norway,Europe,0.1
+1850-01-01,Other Europe,Europe,0
+1850-01-01,Poland,Europe,0.1
+1850-01-01,Portugal,Europe,0.2
+1850-01-01,Romania,Europe,0
+1850-01-01,San Marino,Europe,0
+1850-01-01,Scotland,Europe,0.6
+1850-01-01,Spain,Europe,0.2
+1850-01-01,Sweden,Europe,0
+1850-01-01,Switzerland,Europe,0.5
+1850-01-01,Turkey,Europe,0
+1850-01-01,Wales,Europe,0.1
+1850-01-01,Yugoslavia,Europe,0
+1860-01-01,Albania,Europe,0
+1860-01-01,Andorra,Europe,0
+1860-01-01,Austria,Europe,0.1
+1860-01-01,Belgium,Europe,0.1
+1860-01-01,Bulgaria,Europe,0
+1860-01-01,Czechoslovakia,Europe,0
+1860-01-01,Denmark,Europe,0.3
+1860-01-01,England,Europe,2.8
+1860-01-01,Estonia,Europe,0
+1860-01-01,Finland,Europe,0
+1860-01-01,France,Europe,2.9
+1860-01-01,Germany,Europe,6.4
+1860-01-01,Gibraltar,Europe,0
+1860-01-01,Greece,Europe,0
+1860-01-01,Hungary,Europe,0
+1860-01-01,Iceland,Europe,0
+1860-01-01,Ireland,Europe,8.4
+1860-01-01,Italy,Europe,0.8
+1860-01-01,Latvia,Europe,0
+1860-01-01,Liechtenstein,Europe,0
+1860-01-01,Lithuania,Europe,0
+1860-01-01,Luxembourg,Europe,0
+1860-01-01,Malta,Europe,0
+1860-01-01,Monaco,Europe,0
+1860-01-01,Netherlands,Europe,0.1
+1860-01-01,Norway,Europe,0.2
+1860-01-01,Other Europe,Europe,0
+1860-01-01,Poland,Europe,0.3
+1860-01-01,Portugal,Europe,0.1
+1860-01-01,Romania,Europe,0
+1860-01-01,San Marino,Europe,0
+1860-01-01,Scotland,Europe,1.2
+1860-01-01,Spain,Europe,0.1
+1860-01-01,Sweden,Europe,0.4
+1860-01-01,Switzerland,Europe,0.7
+1860-01-01,Turkey,Europe,0
+1860-01-01,Wales,Europe,0.5
+1860-01-01,Yugoslavia,Europe,0
+1870-01-01,Albania,Europe,0
+1870-01-01,Andorra,Europe,0
+1870-01-01,Austria,Europe,0.2
+1870-01-01,Belgium,Europe,0
+1870-01-01,Bulgaria,Europe,0
+1870-01-01,Czechoslovakia,Europe,0.1
+1870-01-01,Denmark,Europe,0.3
+1870-01-01,England,Europe,3.5
+1870-01-01,Estonia,Europe,0
+1870-01-01,Finland,Europe,0
+1870-01-01,France,Europe,1.5
+1870-01-01,Germany,Europe,4.8
+1870-01-01,Gibraltar,Europe,0
+1870-01-01,Greece,Europe,0
+1870-01-01,Hungary,Europe,0
+1870-01-01,Iceland,Europe,0
+1870-01-01,Ireland,Europe,9.2
+1870-01-01,Italy,Europe,1.2
+1870-01-01,Latvia,Europe,0
+1870-01-01,Liechtenstein,Europe,0
+1870-01-01,Lithuania,Europe,0
+1870-01-01,Luxembourg,Europe,0
+1870-01-01,Malta,Europe,0
+1870-01-01,Monaco,Europe,0
+1870-01-01,Netherlands,Europe,0.1
+1870-01-01,Norway,Europe,0.2
+1870-01-01,Other Europe,Europe,0.2
+1870-01-01,Poland,Europe,0.1
+1870-01-01,Portugal,Europe,0.6
+1870-01-01,Romania,Europe,0
+1870-01-01,San Marino,Europe,0
+1870-01-01,Scotland,Europe,0.8
+1870-01-01,Spain,Europe,0.1
+1870-01-01,Sweden,Europe,0.3
+1870-01-01,Switzerland,Europe,0.4
+1870-01-01,Turkey,Europe,0
+1870-01-01,Wales,Europe,0.3
+1870-01-01,Yugoslavia,Europe,0
+1880-01-01,Albania,Europe,0
+1880-01-01,Andorra,Europe,0
+1880-01-01,Austria,Europe,0.2
+1880-01-01,Belgium,Europe,0.1
+1880-01-01,Bulgaria,Europe,0
+1880-01-01,Czechoslovakia,Europe,0
+1880-01-01,Denmark,Europe,0.4
+1880-01-01,England,Europe,2.8
+1880-01-01,Estonia,Europe,0
+1880-01-01,Finland,Europe,0.1
+1880-01-01,France,Europe,1.2
+1880-01-01,Germany,Europe,4.7
+1880-01-01,Gibraltar,Europe,0
+1880-01-01,Greece,Europe,0
+1880-01-01,Hungary,Europe,0
+1880-01-01,Iceland,Europe,0
+1880-01-01,Ireland,Europe,7.2
+1880-01-01,Italy,Europe,0.8
+1880-01-01,Latvia,Europe,0
+1880-01-01,Liechtenstein,Europe,0
+1880-01-01,Lithuania,Europe,0
+1880-01-01,Luxembourg,Europe,0
+1880-01-01,Malta,Europe,0
+1880-01-01,Monaco,Europe,0
+1880-01-01,Netherlands,Europe,0.1
+1880-01-01,Norway,Europe,0.2
+1880-01-01,Other Europe,Europe,0.1
+1880-01-01,Poland,Europe,0.1
+1880-01-01,Portugal,Europe,0.9
+1880-01-01,Romania,Europe,0
+1880-01-01,San Marino,Europe,0
+1880-01-01,Scotland,Europe,0.8
+1880-01-01,Spain,Europe,0.1
+1880-01-01,Sweden,Europe,0.5
+1880-01-01,Switzerland,Europe,0.6
+1880-01-01,Turkey,Europe,0
+1880-01-01,Wales,Europe,0.2
+1880-01-01,Yugoslavia,Europe,0
+1900-01-01,Albania,Europe,0
+1900-01-01,Andorra,Europe,0
+1900-01-01,Austria,Europe,0.4
+1900-01-01,Belgium,Europe,0.1
+1900-01-01,Bulgaria,Europe,0
+1900-01-01,Czechoslovakia,Europe,0
+1900-01-01,Denmark,Europe,0.6
+1900-01-01,England,Europe,2.5
+1900-01-01,Estonia,Europe,0
+1900-01-01,Finland,Europe,0.2
+1900-01-01,France,Europe,0.9
+1900-01-01,Germany,Europe,4.2
+1900-01-01,Gibraltar,Europe,0
+1900-01-01,Greece,Europe,0
+1900-01-01,Hungary,Europe,0
+1900-01-01,Iceland,Europe,0
+1900-01-01,Ireland,Europe,3.8
+1900-01-01,Italy,Europe,1.6
+1900-01-01,Latvia,Europe,0
+1900-01-01,Liechtenstein,Europe,0
+1900-01-01,Lithuania,Europe,0
+1900-01-01,Luxembourg,Europe,0
+1900-01-01,Malta,Europe,0
+1900-01-01,Monaco,Europe,0
+1900-01-01,Netherlands,Europe,0.1
+1900-01-01,Norway,Europe,0.3
+1900-01-01,Other Europe,Europe,0.3
+1900-01-01,Poland,Europe,0.1
+1900-01-01,Portugal,Europe,1
+1900-01-01,Romania,Europe,0
+1900-01-01,San Marino,Europe,0
+1900-01-01,Scotland,Europe,0.6
+1900-01-01,Spain,Europe,0.1
+1900-01-01,Sweden,Europe,1
+1900-01-01,Switzerland,Europe,0.8
+1900-01-01,Turkey,Europe,0
+1900-01-01,Wales,Europe,0.1
+1900-01-01,Yugoslavia,Europe,0
+1910-01-01,Albania,Europe,0
+1910-01-01,Andorra,Europe,0
+1910-01-01,Austria,Europe,0.8
+1910-01-01,Belgium,Europe,0.1
+1910-01-01,Bulgaria,Europe,0
+1910-01-01,Czechoslovakia,Europe,0
+1910-01-01,Denmark,Europe,0.6
+1910-01-01,England,Europe,1.9
+1910-01-01,Estonia,Europe,0
+1910-01-01,Finland,Europe,0.3
+1910-01-01,France,Europe,0.8
+1910-01-01,Germany,Europe,3.4
+1910-01-01,Gibraltar,Europe,0
+1910-01-01,Greece,Europe,0.2
+1910-01-01,Hungary,Europe,0.1
+1910-01-01,Iceland,Europe,0
+1910-01-01,Ireland,Europe,2.4
+1910-01-01,Italy,Europe,2.8
+1910-01-01,Latvia,Europe,0
+1910-01-01,Liechtenstein,Europe,0
+1910-01-01,Lithuania,Europe,0
+1910-01-01,Luxembourg,Europe,0
+1910-01-01,Malta,Europe,0
+1910-01-01,Monaco,Europe,0
+1910-01-01,Netherlands,Europe,0.1
+1910-01-01,Norway,Europe,0.4
+1910-01-01,Other Europe,Europe,0.7
+1910-01-01,Poland,Europe,0.1
+1910-01-01,Portugal,Europe,0.9
+1910-01-01,Romania,Europe,0
+1910-01-01,San Marino,Europe,0
+1910-01-01,Scotland,Europe,0.7
+1910-01-01,Spain,Europe,0.2
+1910-01-01,Sweden,Europe,1.1
+1910-01-01,Switzerland,Europe,0.5
+1910-01-01,Turkey,Europe,0.1
+1910-01-01,Wales,Europe,0.1
+1910-01-01,Yugoslavia,Europe,0
+1920-01-01,Albania,Europe,0
+1920-01-01,Andorra,Europe,0
+1920-01-01,Austria,Europe,0.4
+1920-01-01,Belgium,Europe,0
+1920-01-01,Bulgaria,Europe,0
+1920-01-01,Czechoslovakia,Europe,0.1
+1920-01-01,Denmark,Europe,0.7
+1920-01-01,England,Europe,1.7
+1920-01-01,Estonia,Europe,0
+1920-01-01,Finland,Europe,0.2
+1920-01-01,France,Europe,0.6
+1920-01-01,Germany,Europe,1.8
+1920-01-01,Gibraltar,Europe,0
+1920-01-01,Greece,Europe,0.3
+1920-01-01,Hungary,Europe,0.2
+1920-01-01,Iceland,Europe,0
+1920-01-01,Ireland,Europe,1.4
+1920-01-01,Italy,Europe,2.7
+1920-01-01,Latvia,Europe,0
+1920-01-01,Liechtenstein,Europe,0
+1920-01-01,Lithuania,Europe,0
+1920-01-01,Luxembourg,Europe,0
+1920-01-01,Malta,Europe,0
+1920-01-01,Monaco,Europe,0
+1920-01-01,Netherlands,Europe,0.2
+1920-01-01,Norway,Europe,0.3
+1920-01-01,Other Europe,Europe,0.9
+1920-01-01,Poland,Europe,0.2
+1920-01-01,Portugal,Europe,1
+1920-01-01,Romania,Europe,0.1
+1920-01-01,San Marino,Europe,0
+1920-01-01,Scotland,Europe,0.5
+1920-01-01,Spain,Europe,0.3
+1920-01-01,Sweden,Europe,1
+1920-01-01,Switzerland,Europe,0.5
+1920-01-01,Turkey,Europe,0.1
+1920-01-01,Wales,Europe,0.1
+1920-01-01,Yugoslavia,Europe,0.2
+1930-01-01,Albania,Europe,0
+1930-01-01,Andorra,Europe,0
+1930-01-01,Austria,Europe,0.2
+1930-01-01,Belgium,Europe,0.1
+1930-01-01,Bulgaria,Europe,0
+1930-01-01,Czechoslovakia,Europe,0.1
+1930-01-01,Denmark,Europe,0.4
+1930-01-01,England,Europe,1.5
+1930-01-01,Estonia,Europe,0
+1930-01-01,Finland,Europe,0.1
+1930-01-01,France,Europe,0.4
+1930-01-01,Germany,Europe,1.4
+1930-01-01,Gibraltar,Europe,0
+1930-01-01,Greece,Europe,0.2
+1930-01-01,Hungary,Europe,0.1
+1930-01-01,Iceland,Europe,0
+1930-01-01,Ireland,Europe,0.8
+1930-01-01,Italy,Europe,1.9
+1930-01-01,Latvia,Europe,0
+1930-01-01,Liechtenstein,Europe,0
+1930-01-01,Lithuania,Europe,0
+1930-01-01,Luxembourg,Europe,0
+1930-01-01,Malta,Europe,0
+1930-01-01,Monaco,Europe,0
+1930-01-01,Netherlands,Europe,0.2
+1930-01-01,Norway,Europe,0.3
+1930-01-01,Other Europe,Europe,0.9
+1930-01-01,Poland,Europe,0.3
+1930-01-01,Portugal,Europe,0.7
+1930-01-01,Romania,Europe,0.1
+1930-01-01,San Marino,Europe,0
+1930-01-01,Scotland,Europe,0.5
+1930-01-01,Spain,Europe,0.2
+1930-01-01,Sweden,Europe,0.7
+1930-01-01,Switzerland,Europe,0.4
+1930-01-01,Turkey,Europe,0.1
+1930-01-01,Wales,Europe,0.1
+1930-01-01,Yugoslavia,Europe,0.2
+1940-01-01,Albania,Europe,0
+1940-01-01,Andorra,Europe,0
+1940-01-01,Austria,Europe,0.2
+1940-01-01,Belgium,Europe,0
+1940-01-01,Bulgaria,Europe,0
+1940-01-01,Czechoslovakia,Europe,0.1
+1940-01-01,Denmark,Europe,0.3
+1940-01-01,England,Europe,1.1
+1940-01-01,Estonia,Europe,0
+1940-01-01,Finland,Europe,0.1
+1940-01-01,France,Europe,0.2
+1940-01-01,Germany,Europe,1.1
+1940-01-01,Gibraltar,Europe,0
+1940-01-01,Greece,Europe,0.2
+1940-01-01,Hungary,Europe,0.2
+1940-01-01,Iceland,Europe,0
+1940-01-01,Ireland,Europe,0.6
+1940-01-01,Italy,Europe,1.6
+1940-01-01,Latvia,Europe,0
+1940-01-01,Liechtenstein,Europe,0
+1940-01-01,Lithuania,Europe,0
+1940-01-01,Luxembourg,Europe,0
+1940-01-01,Malta,Europe,0
+1940-01-01,Monaco,Europe,0
+1940-01-01,Netherlands,Europe,0.1
+1940-01-01,Norway,Europe,0.2
+1940-01-01,Other Europe,Europe,0.8
+1940-01-01,Poland,Europe,0.2
+1940-01-01,Portugal,Europe,0.4
+1940-01-01,Romania,Europe,0.1
+1940-01-01,San Marino,Europe,0
+1940-01-01,Scotland,Europe,0.4
+1940-01-01,Spain,Europe,0.2
+1940-01-01,Sweden,Europe,0.5
+1940-01-01,Switzerland,Europe,0.2
+1940-01-01,Turkey,Europe,0.2
+1940-01-01,Wales,Europe,0
+1940-01-01,Yugoslavia,Europe,0.2
+1950-01-01,Albania,Europe,0
+1950-01-01,Andorra,Europe,0
+1950-01-01,Austria,Europe,0.2
+1950-01-01,Belgium,Europe,0
+1950-01-01,Bulgaria,Europe,0
+1950-01-01,Czechoslovakia,Europe,0.1
+1950-01-01,Denmark,Europe,0.1
+1950-01-01,England,Europe,0.7
+1950-01-01,Estonia,Europe,0
+1950-01-01,Finland,Europe,0.1
+1950-01-01,France,Europe,0.2
+1950-01-01,Germany,Europe,0.7
+1950-01-01,Gibraltar,Europe,0
+1950-01-01,Greece,Europe,0.1
+1950-01-01,Hungary,Europe,0.1
+1950-01-01,Iceland,Europe,0
+1950-01-01,Ireland,Europe,0.3
+1950-01-01,Italy,Europe,1
+1950-01-01,Latvia,Europe,0
+1950-01-01,Liechtenstein,Europe,0
+1950-01-01,Lithuania,Europe,0
+1950-01-01,Luxembourg,Europe,0
+1950-01-01,Malta,Europe,0
+1950-01-01,Monaco,Europe,0
+1950-01-01,Netherlands,Europe,0.1
+1950-01-01,Norway,Europe,0.2
+1950-01-01,Other Europe,Europe,0.7
+1950-01-01,Poland,Europe,0.2
+1950-01-01,Portugal,Europe,0.2
+1950-01-01,Romania,Europe,0.1
+1950-01-01,San Marino,Europe,0
+1950-01-01,Scotland,Europe,0.3
+1950-01-01,Spain,Europe,0.1
+1950-01-01,Sweden,Europe,0.3
+1950-01-01,Switzerland,Europe,0.2
+1950-01-01,Turkey,Europe,0.1
+1950-01-01,Wales,Europe,0
+1950-01-01,Yugoslavia,Europe,0.1
+1960-01-01,Albania,Europe,0
+1960-01-01,Andorra,Europe,0
+1960-01-01,Austria,Europe,0.1
+1960-01-01,Belgium,Europe,0
+1960-01-01,Bulgaria,Europe,0
+1960-01-01,Czechoslovakia,Europe,0.1
+1960-01-01,Denmark,Europe,0.1
+1960-01-01,England,Europe,0.6
+1960-01-01,Estonia,Europe,0
+1960-01-01,Finland,Europe,0
+1960-01-01,France,Europe,0.1
+1960-01-01,Germany,Europe,0.6
+1960-01-01,Gibraltar,Europe,0
+1960-01-01,Greece,Europe,0.1
+1960-01-01,Hungary,Europe,0.1
+1960-01-01,Iceland,Europe,0
+1960-01-01,Ireland,Europe,0.2
+1960-01-01,Italy,Europe,0.7
+1960-01-01,Latvia,Europe,0
+1960-01-01,Liechtenstein,Europe,0
+1960-01-01,Lithuania,Europe,0
+1960-01-01,Luxembourg,Europe,0
+1960-01-01,Malta,Europe,0
+1960-01-01,Monaco,Europe,0
+1960-01-01,Netherlands,Europe,0.2
+1960-01-01,Norway,Europe,0.1
+1960-01-01,Other Europe,Europe,0.4
+1960-01-01,Poland,Europe,0.2
+1960-01-01,Portugal,Europe,0.2
+1960-01-01,Romania,Europe,0
+1960-01-01,San Marino,Europe,0
+1960-01-01,Scotland,Europe,0.2
+1960-01-01,Spain,Europe,0.1
+1960-01-01,Sweden,Europe,0.2
+1960-01-01,Switzerland,Europe,0.1
+1960-01-01,Turkey,Europe,0.1
+1960-01-01,Wales,Europe,0
+1960-01-01,Yugoslavia,Europe,0.1
+1970-01-01,Albania,Europe,0
+1970-01-01,Andorra,Europe,0
+1970-01-01,Austria,Europe,0.1
+1970-01-01,Belgium,Europe,0
+1970-01-01,Bulgaria,Europe,0
+1970-01-01,Czechoslovakia,Europe,0.1
+1970-01-01,Denmark,Europe,0.1
+1970-01-01,England,Europe,0.5
+1970-01-01,Estonia,Europe,0
+1970-01-01,Finland,Europe,0
+1970-01-01,France,Europe,0.1
+1970-01-01,Germany,Europe,0.6
+1970-01-01,Gibraltar,Europe,0
+1970-01-01,Greece,Europe,0.1
+1970-01-01,Hungary,Europe,0.1
+1970-01-01,Iceland,Europe,0
+1970-01-01,Ireland,Europe,0.1
+1970-01-01,Italy,Europe,0.4
+1970-01-01,Latvia,Europe,0
+1970-01-01,Liechtenstein,Europe,0
+1970-01-01,Lithuania,Europe,0
+1970-01-01,Luxembourg,Europe,0
+1970-01-01,Malta,Europe,0
+1970-01-01,Monaco,Europe,0
+1970-01-01,Netherlands,Europe,0.1
+1970-01-01,Norway,Europe,0.1
+1970-01-01,Other Europe,Europe,0.3
+1970-01-01,Poland,Europe,0.2
+1970-01-01,Portugal,Europe,0.1
+1970-01-01,Romania,Europe,0.1
+1970-01-01,San Marino,Europe,0
+1970-01-01,Scotland,Europe,0.1
+1970-01-01,Spain,Europe,0.1
+1970-01-01,Sweden,Europe,0.1
+1970-01-01,Switzerland,Europe,0.1
+1970-01-01,Turkey,Europe,0
+1970-01-01,Wales,Europe,0
+1970-01-01,Yugoslavia,Europe,0.1
+1980-01-01,Albania,Europe,0
+1980-01-01,Andorra,Europe,0
+1980-01-01,Austria,Europe,0.1
+1980-01-01,Belgium,Europe,0
+1980-01-01,Bulgaria,Europe,0
+1980-01-01,Czechoslovakia,Europe,0
+1980-01-01,Denmark,Europe,0
+1980-01-01,England,Europe,0.4
+1980-01-01,Estonia,Europe,0
+1980-01-01,Finland,Europe,0
+1980-01-01,France,Europe,0.1
+1980-01-01,Germany,Europe,0.6
+1980-01-01,Gibraltar,Europe,0
+1980-01-01,Greece,Europe,0.1
+1980-01-01,Hungary,Europe,0.1
+1980-01-01,Iceland,Europe,0
+1980-01-01,Ireland,Europe,0.1
+1980-01-01,Italy,Europe,0.3
+1980-01-01,Latvia,Europe,0
+1980-01-01,Liechtenstein,Europe,0
+1980-01-01,Lithuania,Europe,0
+1980-01-01,Luxembourg,Europe,0
+1980-01-01,Malta,Europe,0
+1980-01-01,Monaco,Europe,0
+1980-01-01,Netherlands,Europe,0.1
+1980-01-01,Norway,Europe,0
+1980-01-01,Other Europe,Europe,0.3
+1980-01-01,Poland,Europe,0.1
+1980-01-01,Portugal,Europe,0.2
+1980-01-01,Romania,Europe,0
+1980-01-01,San Marino,Europe,0
+1980-01-01,Scotland,Europe,0.1
+1980-01-01,Spain,Europe,0.1
+1980-01-01,Sweden,Europe,0.1
+1980-01-01,Switzerland,Europe,0
+1980-01-01,Turkey,Europe,0.1
+1980-01-01,Wales,Europe,0
+1980-01-01,Yugoslavia,Europe,0.1
+1990-01-01,Albania,Europe,0
+1990-01-01,Andorra,Europe,0
+1990-01-01,Austria,Europe,0
+1990-01-01,Belgium,Europe,0
+1990-01-01,Bulgaria,Europe,0
+1990-01-01,Czechoslovakia,Europe,0
+1990-01-01,Denmark,Europe,0
+1990-01-01,England,Europe,0.3
+1990-01-01,Estonia,Europe,0
+1990-01-01,Finland,Europe,0
+1990-01-01,France,Europe,0.1
+1990-01-01,Germany,Europe,0.5
+1990-01-01,Gibraltar,Europe,0
+1990-01-01,Greece,Europe,0.1
+1990-01-01,Hungary,Europe,0.1
+1990-01-01,Iceland,Europe,0
+1990-01-01,Ireland,Europe,0.1
+1990-01-01,Italy,Europe,0.2
+1990-01-01,Latvia,Europe,0
+1990-01-01,Liechtenstein,Europe,0
+1990-01-01,Lithuania,Europe,0
+1990-01-01,Luxembourg,Europe,0
+1990-01-01,Malta,Europe,0
+1990-01-01,Monaco,Europe,0
+1990-01-01,Netherlands,Europe,0.1
+1990-01-01,Norway,Europe,0
+1990-01-01,Other Europe,Europe,0.3
+1990-01-01,Poland,Europe,0.1
+1990-01-01,Portugal,Europe,0.1
+1990-01-01,Romania,Europe,0.1
+1990-01-01,San Marino,Europe,0
+1990-01-01,Scotland,Europe,0.1
+1990-01-01,Spain,Europe,0.1
+1990-01-01,Sweden,Europe,0
+1990-01-01,Switzerland,Europe,0
+1990-01-01,Turkey,Europe,0
+1990-01-01,Wales,Europe,0
+1990-01-01,Yugoslavia,Europe,0.1
+2000-01-01,Albania,Europe,0
+2000-01-01,Andorra,Europe,0
+2000-01-01,Austria,Europe,0
+2000-01-01,Belgium,Europe,0
+2000-01-01,Bulgaria,Europe,0
+2000-01-01,Czechoslovakia,Europe,0
+2000-01-01,Denmark,Europe,0
+2000-01-01,England,Europe,0.3
+2000-01-01,Estonia,Europe,0
+2000-01-01,Finland,Europe,0
+2000-01-01,France,Europe,0.1
+2000-01-01,Germany,Europe,0.4
+2000-01-01,Gibraltar,Europe,0
+2000-01-01,Greece,Europe,0
+2000-01-01,Hungary,Europe,0
+2000-01-01,Iceland,Europe,0
+2000-01-01,Ireland,Europe,0.1
+2000-01-01,Italy,Europe,0.1
+2000-01-01,Latvia,Europe,0
+2000-01-01,Liechtenstein,Europe,0
+2000-01-01,Lithuania,Europe,0
+2000-01-01,Luxembourg,Europe,0
+2000-01-01,Malta,Europe,0
+2000-01-01,Monaco,Europe,0
+2000-01-01,Netherlands,Europe,0.1
+2000-01-01,Norway,Europe,0
+2000-01-01,Other Europe,Europe,0.6
+2000-01-01,Poland,Europe,0.1
+2000-01-01,Portugal,Europe,0.1
+2000-01-01,Romania,Europe,0.1
+2000-01-01,San Marino,Europe,0
+2000-01-01,Scotland,Europe,0.1
+2000-01-01,Spain,Europe,0
+2000-01-01,Sweden,Europe,0
+2000-01-01,Switzerland,Europe,0
+2000-01-01,Turkey,Europe,0
+2000-01-01,Wales,Europe,0
+2000-01-01,Yugoslavia,Europe,0.1
+2001-01-01,Albania,Europe,0
+2001-01-01,Andorra,Europe,0
+2001-01-01,Austria,Europe,0
+2001-01-01,Belgium,Europe,0
+2001-01-01,Bulgaria,Europe,0
+2001-01-01,Czechoslovakia,Europe,0
+2001-01-01,Denmark,Europe,0
+2001-01-01,England,Europe,0.2
+2001-01-01,Estonia,Europe,0
+2001-01-01,Finland,Europe,0
+2001-01-01,France,Europe,0.1
+2001-01-01,Germany,Europe,0.4
+2001-01-01,Gibraltar,Europe,0
+2001-01-01,Greece,Europe,0.1
+2001-01-01,Hungary,Europe,0
+2001-01-01,Iceland,Europe,0
+2001-01-01,Ireland,Europe,0.1
+2001-01-01,Italy,Europe,0.1
+2001-01-01,Latvia,Europe,0
+2001-01-01,Liechtenstein,Europe,0
+2001-01-01,Lithuania,Europe,0
+2001-01-01,Luxembourg,Europe,0
+2001-01-01,Malta,Europe,0
+2001-01-01,Monaco,Europe,0
+2001-01-01,Netherlands,Europe,0.1
+2001-01-01,Norway,Europe,0
+2001-01-01,Other Europe,Europe,0.7
+2001-01-01,Poland,Europe,0.1
+2001-01-01,Portugal,Europe,0.1
+2001-01-01,Romania,Europe,0.1
+2001-01-01,San Marino,Europe,0
+2001-01-01,Scotland,Europe,0
+2001-01-01,Spain,Europe,0.1
+2001-01-01,Sweden,Europe,0
+2001-01-01,Switzerland,Europe,0
+2001-01-01,Turkey,Europe,0.1
+2001-01-01,Wales,Europe,0
+2001-01-01,Yugoslavia,Europe,0.1
+2002-01-01,Albania,Europe,0
+2002-01-01,Andorra,Europe,0
+2002-01-01,Austria,Europe,0
+2002-01-01,Belgium,Europe,0
+2002-01-01,Bulgaria,Europe,0
+2002-01-01,Czechoslovakia,Europe,0
+2002-01-01,Denmark,Europe,0
+2002-01-01,England,Europe,0.3
+2002-01-01,Estonia,Europe,0
+2002-01-01,Finland,Europe,0
+2002-01-01,France,Europe,0.1
+2002-01-01,Germany,Europe,0.4
+2002-01-01,Gibraltar,Europe,0
+2002-01-01,Greece,Europe,0.1
+2002-01-01,Hungary,Europe,0
+2002-01-01,Iceland,Europe,0
+2002-01-01,Ireland,Europe,0.1
+2002-01-01,Italy,Europe,0.1
+2002-01-01,Latvia,Europe,0
+2002-01-01,Liechtenstein,Europe,0
+2002-01-01,Lithuania,Europe,0
+2002-01-01,Luxembourg,Europe,0
+2002-01-01,Malta,Europe,0
+2002-01-01,Monaco,Europe,0
+2002-01-01,Netherlands,Europe,0.1
+2002-01-01,Norway,Europe,0
+2002-01-01,Other Europe,Europe,0.7
+2002-01-01,Poland,Europe,0.1
+2002-01-01,Portugal,Europe,0.1
+2002-01-01,Romania,Europe,0.1
+2002-01-01,San Marino,Europe,0
+2002-01-01,Scotland,Europe,0
+2002-01-01,Spain,Europe,0
+2002-01-01,Sweden,Europe,0.1
+2002-01-01,Switzerland,Europe,0
+2002-01-01,Turkey,Europe,0.1
+2002-01-01,Wales,Europe,0
+2002-01-01,Yugoslavia,Europe,0.1
+2003-01-01,Albania,Europe,0
+2003-01-01,Andorra,Europe,0
+2003-01-01,Austria,Europe,0
+2003-01-01,Belgium,Europe,0
+2003-01-01,Bulgaria,Europe,0
+2003-01-01,Czechoslovakia,Europe,0
+2003-01-01,Denmark,Europe,0
+2003-01-01,England,Europe,0.2
+2003-01-01,Estonia,Europe,0
+2003-01-01,Finland,Europe,0
+2003-01-01,France,Europe,0.1
+2003-01-01,Germany,Europe,0.4
+2003-01-01,Gibraltar,Europe,0
+2003-01-01,Greece,Europe,0
+2003-01-01,Hungary,Europe,0
+2003-01-01,Iceland,Europe,0
+2003-01-01,Ireland,Europe,0.1
+2003-01-01,Italy,Europe,0.1
+2003-01-01,Latvia,Europe,0
+2003-01-01,Liechtenstein,Europe,0
+2003-01-01,Lithuania,Europe,0
+2003-01-01,Luxembourg,Europe,0
+2003-01-01,Malta,Europe,0
+2003-01-01,Monaco,Europe,0
+2003-01-01,Netherlands,Europe,0.1
+2003-01-01,Norway,Europe,0
+2003-01-01,Other Europe,Europe,0.7
+2003-01-01,Poland,Europe,0.1
+2003-01-01,Portugal,Europe,0.1
+2003-01-01,Romania,Europe,0.1
+2003-01-01,San Marino,Europe,0
+2003-01-01,Scotland,Europe,0
+2003-01-01,Spain,Europe,0
+2003-01-01,Sweden,Europe,0
+2003-01-01,Switzerland,Europe,0
+2003-01-01,Turkey,Europe,0
+2003-01-01,Wales,Europe,0
+2003-01-01,Yugoslavia,Europe,0.1
+2004-01-01,Albania,Europe,0
+2004-01-01,Andorra,Europe,0
+2004-01-01,Austria,Europe,0
+2004-01-01,Belgium,Europe,0
+2004-01-01,Bulgaria,Europe,0
+2004-01-01,Czechoslovakia,Europe,0
+2004-01-01,Denmark,Europe,0
+2004-01-01,England,Europe,0.2
+2004-01-01,Estonia,Europe,0
+2004-01-01,Finland,Europe,0
+2004-01-01,France,Europe,0.1
+2004-01-01,Germany,Europe,0.4
+2004-01-01,Gibraltar,Europe,0
+2004-01-01,Greece,Europe,0
+2004-01-01,Hungary,Europe,0.1
+2004-01-01,Iceland,Europe,0
+2004-01-01,Ireland,Europe,0.1
+2004-01-01,Italy,Europe,0.1
+2004-01-01,Latvia,Europe,0
+2004-01-01,Liechtenstein,Europe,0
+2004-01-01,Lithuania,Europe,0
+2004-01-01,Luxembourg,Europe,0
+2004-01-01,Malta,Europe,0
+2004-01-01,Monaco,Europe,0
+2004-01-01,Netherlands,Europe,0.1
+2004-01-01,Norway,Europe,0
+2004-01-01,Other Europe,Europe,0.6
+2004-01-01,Poland,Europe,0.1
+2004-01-01,Portugal,Europe,0.1
+2004-01-01,Romania,Europe,0.1
+2004-01-01,San Marino,Europe,0
+2004-01-01,Scotland,Europe,0
+2004-01-01,Spain,Europe,0
+2004-01-01,Sweden,Europe,0
+2004-01-01,Switzerland,Europe,0
+2004-01-01,Turkey,Europe,0
+2004-01-01,Wales,Europe,0
+2004-01-01,Yugoslavia,Europe,0.1
+2005-01-01,Albania,Europe,0
+2005-01-01,Andorra,Europe,0
+2005-01-01,Austria,Europe,0
+2005-01-01,Belgium,Europe,0
+2005-01-01,Bulgaria,Europe,0
+2005-01-01,Czechoslovakia,Europe,0
+2005-01-01,Denmark,Europe,0
+2005-01-01,England,Europe,0.3
+2005-01-01,Estonia,Europe,0
+2005-01-01,Finland,Europe,0
+2005-01-01,France,Europe,0.1
+2005-01-01,Germany,Europe,0.4
+2005-01-01,Gibraltar,Europe,0
+2005-01-01,Greece,Europe,0
+2005-01-01,Hungary,Europe,0
+2005-01-01,Iceland,Europe,0
+2005-01-01,Ireland,Europe,0.1
+2005-01-01,Italy,Europe,0.1
+2005-01-01,Latvia,Europe,0
+2005-01-01,Liechtenstein,Europe,0
+2005-01-01,Lithuania,Europe,0
+2005-01-01,Luxembourg,Europe,0
+2005-01-01,Malta,Europe,0
+2005-01-01,Monaco,Europe,0
+2005-01-01,Netherlands,Europe,0.1
+2005-01-01,Norway,Europe,0
+2005-01-01,Other Europe,Europe,0.7
+2005-01-01,Poland,Europe,0.1
+2005-01-01,Portugal,Europe,0.1
+2005-01-01,Romania,Europe,0.1
+2005-01-01,San Marino,Europe,0
+2005-01-01,Scotland,Europe,0
+2005-01-01,Spain,Europe,0
+2005-01-01,Sweden,Europe,0
+2005-01-01,Switzerland,Europe,0
+2005-01-01,Turkey,Europe,0
+2005-01-01,Wales,Europe,0
+2005-01-01,Yugoslavia,Europe,0.1
+2006-01-01,Albania,Europe,0
+2006-01-01,Andorra,Europe,0
+2006-01-01,Austria,Europe,0
+2006-01-01,Belgium,Europe,0
+2006-01-01,Bulgaria,Europe,0
+2006-01-01,Czechoslovakia,Europe,0
+2006-01-01,Denmark,Europe,0
+2006-01-01,England,Europe,0.2
+2006-01-01,Estonia,Europe,0
+2006-01-01,Finland,Europe,0
+2006-01-01,France,Europe,0.1
+2006-01-01,Germany,Europe,0.4
+2006-01-01,Gibraltar,Europe,0
+2006-01-01,Greece,Europe,0
+2006-01-01,Hungary,Europe,0
+2006-01-01,Iceland,Europe,0
+2006-01-01,Ireland,Europe,0
+2006-01-01,Italy,Europe,0.1
+2006-01-01,Latvia,Europe,0
+2006-01-01,Liechtenstein,Europe,0
+2006-01-01,Lithuania,Europe,0
+2006-01-01,Luxembourg,Europe,0
+2006-01-01,Malta,Europe,0
+2006-01-01,Monaco,Europe,0
+2006-01-01,Netherlands,Europe,0.1
+2006-01-01,Norway,Europe,0
+2006-01-01,Other Europe,Europe,0.7
+2006-01-01,Poland,Europe,0.1
+2006-01-01,Portugal,Europe,0.1
+2006-01-01,Romania,Europe,0.1
+2006-01-01,San Marino,Europe,0
+2006-01-01,Scotland,Europe,0
+2006-01-01,Spain,Europe,0
+2006-01-01,Sweden,Europe,0
+2006-01-01,Switzerland,Europe,0
+2006-01-01,Turkey,Europe,0
+2006-01-01,Wales,Europe,0
+2006-01-01,Yugoslavia,Europe,0.1
+2007-01-01,Albania,Europe,0
+2007-01-01,Andorra,Europe,0
+2007-01-01,Austria,Europe,0
+2007-01-01,Belgium,Europe,0
+2007-01-01,Bulgaria,Europe,0
+2007-01-01,Czechoslovakia,Europe,0
+2007-01-01,Denmark,Europe,0
+2007-01-01,England,Europe,0.2
+2007-01-01,Estonia,Europe,0
+2007-01-01,Finland,Europe,0
+2007-01-01,France,Europe,0.1
+2007-01-01,Germany,Europe,0.4
+2007-01-01,Gibraltar,Europe,0
+2007-01-01,Greece,Europe,0
+2007-01-01,Hungary,Europe,0
+2007-01-01,Iceland,Europe,0
+2007-01-01,Ireland,Europe,0.1
+2007-01-01,Italy,Europe,0.1
+2007-01-01,Latvia,Europe,0
+2007-01-01,Liechtenstein,Europe,0
+2007-01-01,Lithuania,Europe,0
+2007-01-01,Luxembourg,Europe,0
+2007-01-01,Malta,Europe,0
+2007-01-01,Monaco,Europe,0
+2007-01-01,Netherlands,Europe,0.1
+2007-01-01,Norway,Europe,0
+2007-01-01,Other Europe,Europe,0.7
+2007-01-01,Poland,Europe,0.1
+2007-01-01,Portugal,Europe,0.1
+2007-01-01,Romania,Europe,0.1
+2007-01-01,San Marino,Europe,0
+2007-01-01,Scotland,Europe,0
+2007-01-01,Spain,Europe,0
+2007-01-01,Sweden,Europe,0
+2007-01-01,Switzerland,Europe,0
+2007-01-01,Turkey,Europe,0
+2007-01-01,Wales,Europe,0
+2007-01-01,Yugoslavia,Europe,0.1
+2008-01-01,Albania,Europe,0
+2008-01-01,Andorra,Europe,0
+2008-01-01,Austria,Europe,0
+2008-01-01,Belgium,Europe,0
+2008-01-01,Bulgaria,Europe,0
+2008-01-01,Czechoslovakia,Europe,0
+2008-01-01,Denmark,Europe,0
+2008-01-01,England,Europe,0.2
+2008-01-01,Estonia,Europe,0
+2008-01-01,Finland,Europe,0
+2008-01-01,France,Europe,0.1
+2008-01-01,Germany,Europe,0.3
+2008-01-01,Gibraltar,Europe,0
+2008-01-01,Greece,Europe,0
+2008-01-01,Hungary,Europe,0
+2008-01-01,Iceland,Europe,0
+2008-01-01,Ireland,Europe,0.1
+2008-01-01,Italy,Europe,0.1
+2008-01-01,Latvia,Europe,0
+2008-01-01,Liechtenstein,Europe,0
+2008-01-01,Lithuania,Europe,0
+2008-01-01,Luxembourg,Europe,0
+2008-01-01,Malta,Europe,0
+2008-01-01,Monaco,Europe,0
+2008-01-01,Netherlands,Europe,0
+2008-01-01,Norway,Europe,0
+2008-01-01,Other Europe,Europe,0.7
+2008-01-01,Poland,Europe,0.1
+2008-01-01,Portugal,Europe,0.1
+2008-01-01,Romania,Europe,0.1
+2008-01-01,San Marino,Europe,0
+2008-01-01,Scotland,Europe,0
+2008-01-01,Spain,Europe,0
+2008-01-01,Sweden,Europe,0
+2008-01-01,Switzerland,Europe,0
+2008-01-01,Turkey,Europe,0
+2008-01-01,Wales,Europe,0
+2008-01-01,Yugoslavia,Europe,0.1
+2009-01-01,Albania,Europe,0
+2009-01-01,Andorra,Europe,0
+2009-01-01,Austria,Europe,0
+2009-01-01,Belgium,Europe,0
+2009-01-01,Bulgaria,Europe,0
+2009-01-01,Czechoslovakia,Europe,0
+2009-01-01,Denmark,Europe,0
+2009-01-01,England,Europe,0.2
+2009-01-01,Estonia,Europe,0
+2009-01-01,Finland,Europe,0
+2009-01-01,France,Europe,0.1
+2009-01-01,Germany,Europe,0.3
+2009-01-01,Gibraltar,Europe,0
+2009-01-01,Greece,Europe,0
+2009-01-01,Hungary,Europe,0
+2009-01-01,Iceland,Europe,0
+2009-01-01,Ireland,Europe,0
+2009-01-01,Italy,Europe,0.1
+2009-01-01,Latvia,Europe,0
+2009-01-01,Liechtenstein,Europe,0
+2009-01-01,Lithuania,Europe,0
+2009-01-01,Luxembourg,Europe,0
+2009-01-01,Malta,Europe,0
+2009-01-01,Monaco,Europe,0
+2009-01-01,Netherlands,Europe,0.1
+2009-01-01,Norway,Europe,0
+2009-01-01,Other Europe,Europe,0.8
+2009-01-01,Poland,Europe,0.1
+2009-01-01,Portugal,Europe,0.1
+2009-01-01,Romania,Europe,0.1
+2009-01-01,San Marino,Europe,0
+2009-01-01,Scotland,Europe,0
+2009-01-01,Spain,Europe,0
+2009-01-01,Sweden,Europe,0
+2009-01-01,Switzerland,Europe,0
+2009-01-01,Turkey,Europe,0.1
+2009-01-01,Wales,Europe,0
+2009-01-01,Yugoslavia,Europe,0.1
+2010-01-01,Albania,Europe,0
+2010-01-01,Andorra,Europe,0
+2010-01-01,Austria,Europe,0
+2010-01-01,Belgium,Europe,0
+2010-01-01,Bulgaria,Europe,0
+2010-01-01,Czechoslovakia,Europe,0
+2010-01-01,Denmark,Europe,0
+2010-01-01,England,Europe,0.2
+2010-01-01,Estonia,Europe,0
+2010-01-01,Finland,Europe,0
+2010-01-01,France,Europe,0.1
+2010-01-01,Germany,Europe,0.3
+2010-01-01,Gibraltar,Europe,0
+2010-01-01,Greece,Europe,0
+2010-01-01,Hungary,Europe,0
+2010-01-01,Iceland,Europe,0
+2010-01-01,Ireland,Europe,0.1
+2010-01-01,Italy,Europe,0.1
+2010-01-01,Latvia,Europe,0
+2010-01-01,Liechtenstein,Europe,0
+2010-01-01,Lithuania,Europe,0
+2010-01-01,Luxembourg,Europe,0
+2010-01-01,Malta,Europe,0
+2010-01-01,Monaco,Europe,0
+2010-01-01,Netherlands,Europe,0.1
+2010-01-01,Norway,Europe,0
+2010-01-01,Other Europe,Europe,0.8
+2010-01-01,Poland,Europe,0.1
+2010-01-01,Portugal,Europe,0.1
+2010-01-01,Romania,Europe,0.1
+2010-01-01,San Marino,Europe,0
+2010-01-01,Scotland,Europe,0
+2010-01-01,Spain,Europe,0.1
+2010-01-01,Sweden,Europe,0
+2010-01-01,Switzerland,Europe,0
+2010-01-01,Turkey,Europe,0
+2010-01-01,Wales,Europe,0
+2010-01-01,Yugoslavia,Europe,0.1
+2011-01-01,Albania,Europe,0
+2011-01-01,Andorra,Europe,0
+2011-01-01,Austria,Europe,0
+2011-01-01,Belgium,Europe,0
+2011-01-01,Bulgaria,Europe,0
+2011-01-01,Czechoslovakia,Europe,0
+2011-01-01,Denmark,Europe,0
+2011-01-01,England,Europe,0.2
+2011-01-01,Estonia,Europe,0
+2011-01-01,Finland,Europe,0
+2011-01-01,France,Europe,0.1
+2011-01-01,Germany,Europe,0.3
+2011-01-01,Gibraltar,Europe,0
+2011-01-01,Greece,Europe,0
+2011-01-01,Hungary,Europe,0
+2011-01-01,Iceland,Europe,0
+2011-01-01,Ireland,Europe,0.1
+2011-01-01,Italy,Europe,0.1
+2011-01-01,Latvia,Europe,0
+2011-01-01,Liechtenstein,Europe,0
+2011-01-01,Lithuania,Europe,0
+2011-01-01,Luxembourg,Europe,0
+2011-01-01,Malta,Europe,0
+2011-01-01,Monaco,Europe,0
+2011-01-01,Netherlands,Europe,0.1
+2011-01-01,Norway,Europe,0
+2011-01-01,Other Europe,Europe,0.7
+2011-01-01,Poland,Europe,0.1
+2011-01-01,Portugal,Europe,0.1
+2011-01-01,Romania,Europe,0.1
+2011-01-01,San Marino,Europe,0
+2011-01-01,Scotland,Europe,0
+2011-01-01,Spain,Europe,0
+2011-01-01,Sweden,Europe,0
+2011-01-01,Switzerland,Europe,0
+2011-01-01,Turkey,Europe,0
+2011-01-01,Wales,Europe,0
+2011-01-01,Yugoslavia,Europe,0.1
+2012-01-01,Albania,Europe,0
+2012-01-01,Andorra,Europe,0
+2012-01-01,Austria,Europe,0
+2012-01-01,Belgium,Europe,0
+2012-01-01,Bulgaria,Europe,0
+2012-01-01,Czechoslovakia,Europe,0
+2012-01-01,Denmark,Europe,0
+2012-01-01,England,Europe,0.2
+2012-01-01,Estonia,Europe,0
+2012-01-01,Finland,Europe,0
+2012-01-01,France,Europe,0.1
+2012-01-01,Germany,Europe,0.3
+2012-01-01,Gibraltar,Europe,0
+2012-01-01,Greece,Europe,0
+2012-01-01,Hungary,Europe,0
+2012-01-01,Iceland,Europe,0
+2012-01-01,Ireland,Europe,0.1
+2012-01-01,Italy,Europe,0.1
+2012-01-01,Latvia,Europe,0
+2012-01-01,Liechtenstein,Europe,0
+2012-01-01,Lithuania,Europe,0
+2012-01-01,Luxembourg,Europe,0
+2012-01-01,Malta,Europe,0
+2012-01-01,Monaco,Europe,0
+2012-01-01,Netherlands,Europe,0.1
+2012-01-01,Norway,Europe,0
+2012-01-01,Other Europe,Europe,0.8
+2012-01-01,Poland,Europe,0.1
+2012-01-01,Portugal,Europe,0.1
+2012-01-01,Romania,Europe,0.1
+2012-01-01,San Marino,Europe,0
+2012-01-01,Scotland,Europe,0
+2012-01-01,Spain,Europe,0
+2012-01-01,Sweden,Europe,0
+2012-01-01,Switzerland,Europe,0
+2012-01-01,Turkey,Europe,0
+2012-01-01,Wales,Europe,0
+2012-01-01,Yugoslavia,Europe,0.1
+2013-01-01,Albania,Europe,0
+2013-01-01,Andorra,Europe,0
+2013-01-01,Austria,Europe,0
+2013-01-01,Belgium,Europe,0
+2013-01-01,Bulgaria,Europe,0
+2013-01-01,Czechoslovakia,Europe,0
+2013-01-01,Denmark,Europe,0
+2013-01-01,England,Europe,0.2
+2013-01-01,Estonia,Europe,0
+2013-01-01,Finland,Europe,0
+2013-01-01,France,Europe,0.1
+2013-01-01,Germany,Europe,0.3
+2013-01-01,Gibraltar,Europe,0
+2013-01-01,Greece,Europe,0
+2013-01-01,Hungary,Europe,0
+2013-01-01,Iceland,Europe,0
+2013-01-01,Ireland,Europe,0
+2013-01-01,Italy,Europe,0.1
+2013-01-01,Latvia,Europe,0
+2013-01-01,Liechtenstein,Europe,0
+2013-01-01,Lithuania,Europe,0
+2013-01-01,Luxembourg,Europe,0
+2013-01-01,Malta,Europe,0
+2013-01-01,Monaco,Europe,0
+2013-01-01,Netherlands,Europe,0.1
+2013-01-01,Norway,Europe,0
+2013-01-01,Other Europe,Europe,0.8
+2013-01-01,Poland,Europe,0.1
+2013-01-01,Portugal,Europe,0.1
+2013-01-01,Romania,Europe,0.1
+2013-01-01,San Marino,Europe,0
+2013-01-01,Scotland,Europe,0
+2013-01-01,Spain,Europe,0.1
+2013-01-01,Sweden,Europe,0
+2013-01-01,Switzerland,Europe,0
+2013-01-01,Turkey,Europe,0.1
+2013-01-01,Wales,Europe,0
+2013-01-01,Yugoslavia,Europe,0.1
+2014-01-01,Albania,Europe,0
+2014-01-01,Andorra,Europe,0
+2014-01-01,Austria,Europe,0
+2014-01-01,Belgium,Europe,0
+2014-01-01,Bulgaria,Europe,0
+2014-01-01,Czechoslovakia,Europe,0
+2014-01-01,Denmark,Europe,0
+2014-01-01,England,Europe,0.2
+2014-01-01,Estonia,Europe,0
+2014-01-01,Finland,Europe,0
+2014-01-01,France,Europe,0.1
+2014-01-01,Germany,Europe,0.3
+2014-01-01,Gibraltar,Europe,0
+2014-01-01,Greece,Europe,0
+2014-01-01,Hungary,Europe,0
+2014-01-01,Iceland,Europe,0
+2014-01-01,Ireland,Europe,0.1
+2014-01-01,Italy,Europe,0.1
+2014-01-01,Latvia,Europe,0
+2014-01-01,Liechtenstein,Europe,0
+2014-01-01,Lithuania,Europe,0
+2014-01-01,Luxembourg,Europe,0
+2014-01-01,Malta,Europe,0
+2014-01-01,Monaco,Europe,0
+2014-01-01,Netherlands,Europe,0
+2014-01-01,Norway,Europe,0
+2014-01-01,Other Europe,Europe,0.8
+2014-01-01,Poland,Europe,0.1
+2014-01-01,Portugal,Europe,0.1
+2014-01-01,Romania,Europe,0.1
+2014-01-01,San Marino,Europe,0
+2014-01-01,Scotland,Europe,0
+2014-01-01,Spain,Europe,0
+2014-01-01,Sweden,Europe,0
+2014-01-01,Switzerland,Europe,0
+2014-01-01,Turkey,Europe,0
+2014-01-01,Wales,Europe,0
+2014-01-01,Yugoslavia,Europe,0
+2015-01-01,Albania,Europe,0
+2015-01-01,Andorra,Europe,0
+2015-01-01,Austria,Europe,0
+2015-01-01,Belgium,Europe,0
+2015-01-01,Bulgaria,Europe,0
+2015-01-01,Czechoslovakia,Europe,0
+2015-01-01,Denmark,Europe,0
+2015-01-01,England,Europe,0.2
+2015-01-01,Estonia,Europe,0
+2015-01-01,Finland,Europe,0
+2015-01-01,France,Europe,0.1
+2015-01-01,Germany,Europe,0.3
+2015-01-01,Gibraltar,Europe,0
+2015-01-01,Greece,Europe,0
+2015-01-01,Hungary,Europe,0
+2015-01-01,Iceland,Europe,0
+2015-01-01,Ireland,Europe,0.1
+2015-01-01,Italy,Europe,0.1
+2015-01-01,Latvia,Europe,0
+2015-01-01,Liechtenstein,Europe,0
+2015-01-01,Lithuania,Europe,0
+2015-01-01,Luxembourg,Europe,0
+2015-01-01,Malta,Europe,0
+2015-01-01,Monaco,Europe,0
+2015-01-01,Netherlands,Europe,0.1
+2015-01-01,Norway,Europe,0
+2015-01-01,Other Europe,Europe,0.8
+2015-01-01,Poland,Europe,0.1
+2015-01-01,Portugal,Europe,0.1
+2015-01-01,Romania,Europe,0.1
+2015-01-01,San Marino,Europe,0
+2015-01-01,Scotland,Europe,0
+2015-01-01,Spain,Europe,0.1
+2015-01-01,Sweden,Europe,0
+2015-01-01,Switzerland,Europe,0
+2015-01-01,Turkey,Europe,0.1
+2015-01-01,Wales,Europe,0
+2015-01-01,Yugoslavia,Europe,0.1
+2016-01-01,Albania,Europe,0
+2016-01-01,Andorra,Europe,0
+2016-01-01,Austria,Europe,0
+2016-01-01,Belgium,Europe,0
+2016-01-01,Bulgaria,Europe,0
+2016-01-01,Czechoslovakia,Europe,0
+2016-01-01,Denmark,Europe,0
+2016-01-01,England,Europe,0.2
+2016-01-01,Estonia,Europe,0
+2016-01-01,Finland,Europe,0
+2016-01-01,France,Europe,0.1
+2016-01-01,Germany,Europe,0.3
+2016-01-01,Gibraltar,Europe,0
+2016-01-01,Greece,Europe,0
+2016-01-01,Hungary,Europe,0
+2016-01-01,Iceland,Europe,0
+2016-01-01,Ireland,Europe,0.1
+2016-01-01,Italy,Europe,0.1
+2016-01-01,Latvia,Europe,0
+2016-01-01,Liechtenstein,Europe,0
+2016-01-01,Lithuania,Europe,0
+2016-01-01,Luxembourg,Europe,0
+2016-01-01,Malta,Europe,0
+2016-01-01,Monaco,Europe,0
+2016-01-01,Netherlands,Europe,0
+2016-01-01,Norway,Europe,0
+2016-01-01,Other Europe,Europe,0.8
+2016-01-01,Poland,Europe,0.1
+2016-01-01,Portugal,Europe,0.1
+2016-01-01,Romania,Europe,0.1
+2016-01-01,San Marino,Europe,0
+2016-01-01,Scotland,Europe,0
+2016-01-01,Spain,Europe,0
+2016-01-01,Sweden,Europe,0
+2016-01-01,Switzerland,Europe,0
+2016-01-01,Turkey,Europe,0
+2016-01-01,Wales,Europe,0
+2016-01-01,Yugoslavia,Europe,0.1
+1850-01-01,Africa,Africa,0
+1860-01-01,Africa,Africa,0
+1870-01-01,Africa,Africa,0
+1880-01-01,Africa,Africa,0
+1900-01-01,Africa,Africa,0
+1910-01-01,Africa,Africa,0
+1920-01-01,Africa,Africa,0
+1930-01-01,Africa,Africa,0
+1940-01-01,Africa,Africa,0
+1950-01-01,Africa,Africa,0
+1960-01-01,Africa,Africa,0
+1970-01-01,Africa,Africa,0.1
+1980-01-01,Africa,Africa,0.2
+1990-01-01,Africa,Africa,0.2
+2000-01-01,Africa,Africa,0.3
+2001-01-01,Africa,Africa,0.4
+2002-01-01,Africa,Africa,0.4
+2003-01-01,Africa,Africa,0.3
+2004-01-01,Africa,Africa,0.4
+2005-01-01,Africa,Africa,0.4
+2006-01-01,Africa,Africa,0.4
+2007-01-01,Africa,Africa,0.4
+2008-01-01,Africa,Africa,0.4
+2009-01-01,Africa,Africa,0.4
+2010-01-01,Africa,Africa,0.4
+2011-01-01,Africa,Africa,0.5
+2012-01-01,Africa,Africa,0.5
+2013-01-01,Africa,Africa,0.5
+2014-01-01,Africa,Africa,0.4
+2015-01-01,Africa,Africa,0.5
+2016-01-01,Africa,Africa,0.5
+1850-01-01,Afghanistan,Asia,0
+1850-01-01,Bahrain,Asia,0
+1850-01-01,Brunei,Asia,0
+1850-01-01,Cambodia,Asia,0
+1850-01-01,China,Asia,0.5
+1850-01-01,Cyprus,Asia,0
+1850-01-01,India,Asia,0
+1850-01-01,Indonesia,Asia,0
+1850-01-01,Iran,Asia,0
+1850-01-01,Iraq,Asia,0
+1850-01-01,Israel/Palestine,Asia,0
+1850-01-01,Japan,Asia,0
+1850-01-01,Jordan,Asia,0
+1850-01-01,Korea,Asia,0
+1850-01-01,Kuwait,Asia,0
+1850-01-01,Laos,Asia,0
+1850-01-01,Lebanon,Asia,0
+1850-01-01,Malaysia,Asia,0
+1850-01-01,Maldives,Asia,0
+1850-01-01,Nepal,Asia,0
+1850-01-01,Oman,Asia,0
+1850-01-01,Other Asia,Asia,0
+1850-01-01,Philippines,Asia,0
+1850-01-01,Qatar,Asia,0
+1850-01-01,Saudi Arabia,Asia,0
+1850-01-01,Singapore,Asia,0
+1850-01-01,Syria,Asia,0
+1850-01-01,Thailand,Asia,0
+1850-01-01,United Arab Emirates,Asia,0
+1850-01-01,Vietnam,Asia,0
+1860-01-01,Afghanistan,Asia,0
+1860-01-01,Bahrain,Asia,0
+1860-01-01,Brunei,Asia,0
+1860-01-01,Cambodia,Asia,0
+1860-01-01,China,Asia,9.2
+1860-01-01,Cyprus,Asia,0
+1860-01-01,India,Asia,0
+1860-01-01,Indonesia,Asia,0
+1860-01-01,Iran,Asia,0
+1860-01-01,Iraq,Asia,0
+1860-01-01,Israel/Palestine,Asia,0
+1860-01-01,Japan,Asia,0
+1860-01-01,Jordan,Asia,0
+1860-01-01,Korea,Asia,0
+1860-01-01,Kuwait,Asia,0
+1860-01-01,Laos,Asia,0
+1860-01-01,Lebanon,Asia,0
+1860-01-01,Malaysia,Asia,0
+1860-01-01,Maldives,Asia,0
+1860-01-01,Nepal,Asia,0
+1860-01-01,Oman,Asia,0
+1860-01-01,Other Asia,Asia,0
+1860-01-01,Philippines,Asia,0
+1860-01-01,Qatar,Asia,0
+1860-01-01,Saudi Arabia,Asia,0
+1860-01-01,Singapore,Asia,0
+1860-01-01,Syria,Asia,0
+1860-01-01,Thailand,Asia,0
+1860-01-01,United Arab Emirates,Asia,0
+1860-01-01,Vietnam,Asia,0
+1870-01-01,Afghanistan,Asia,0
+1870-01-01,Bahrain,Asia,0
+1870-01-01,Brunei,Asia,0
+1870-01-01,Cambodia,Asia,0
+1870-01-01,China,Asia,9
+1870-01-01,Cyprus,Asia,0
+1870-01-01,India,Asia,0
+1870-01-01,Indonesia,Asia,0
+1870-01-01,Iran,Asia,0
+1870-01-01,Iraq,Asia,0
+1870-01-01,Israel/Palestine,Asia,0
+1870-01-01,Japan,Asia,0
+1870-01-01,Jordan,Asia,0
+1870-01-01,Korea,Asia,0
+1870-01-01,Kuwait,Asia,0
+1870-01-01,Laos,Asia,0
+1870-01-01,Lebanon,Asia,0
+1870-01-01,Malaysia,Asia,0
+1870-01-01,Maldives,Asia,0
+1870-01-01,Nepal,Asia,0
+1870-01-01,Oman,Asia,0
+1870-01-01,Other Asia,Asia,0
+1870-01-01,Philippines,Asia,0
+1870-01-01,Qatar,Asia,0
+1870-01-01,Saudi Arabia,Asia,0
+1870-01-01,Singapore,Asia,0
+1870-01-01,Syria,Asia,0
+1870-01-01,Thailand,Asia,0
+1870-01-01,United Arab Emirates,Asia,0
+1870-01-01,Vietnam,Asia,0
+1880-01-01,Afghanistan,Asia,0
+1880-01-01,Bahrain,Asia,0
+1880-01-01,Brunei,Asia,0
+1880-01-01,Cambodia,Asia,0
+1880-01-01,China,Asia,8.4
+1880-01-01,Cyprus,Asia,0
+1880-01-01,India,Asia,0
+1880-01-01,Indonesia,Asia,0
+1880-01-01,Iran,Asia,0
+1880-01-01,Iraq,Asia,0
+1880-01-01,Israel/Palestine,Asia,0
+1880-01-01,Japan,Asia,0
+1880-01-01,Jordan,Asia,0
+1880-01-01,Korea,Asia,0
+1880-01-01,Kuwait,Asia,0
+1880-01-01,Laos,Asia,0
+1880-01-01,Lebanon,Asia,0
+1880-01-01,Malaysia,Asia,0
+1880-01-01,Maldives,Asia,0
+1880-01-01,Nepal,Asia,0
+1880-01-01,Oman,Asia,0
+1880-01-01,Other Asia,Asia,0
+1880-01-01,Philippines,Asia,0
+1880-01-01,Qatar,Asia,0
+1880-01-01,Saudi Arabia,Asia,0
+1880-01-01,Singapore,Asia,0
+1880-01-01,Syria,Asia,0
+1880-01-01,Thailand,Asia,0
+1880-01-01,United Arab Emirates,Asia,0
+1880-01-01,Vietnam,Asia,0
+1900-01-01,Afghanistan,Asia,0
+1900-01-01,Bahrain,Asia,0
+1900-01-01,Brunei,Asia,0
+1900-01-01,Cambodia,Asia,0
+1900-01-01,China,Asia,2.6
+1900-01-01,Cyprus,Asia,0
+1900-01-01,India,Asia,0
+1900-01-01,Indonesia,Asia,0
+1900-01-01,Iran,Asia,0
+1900-01-01,Iraq,Asia,0
+1900-01-01,Israel/Palestine,Asia,0
+1900-01-01,Japan,Asia,0.6
+1900-01-01,Jordan,Asia,0
+1900-01-01,Korea,Asia,0
+1900-01-01,Kuwait,Asia,0
+1900-01-01,Laos,Asia,0
+1900-01-01,Lebanon,Asia,0
+1900-01-01,Malaysia,Asia,0
+1900-01-01,Maldives,Asia,0
+1900-01-01,Nepal,Asia,0
+1900-01-01,Oman,Asia,0
+1900-01-01,Other Asia,Asia,0
+1900-01-01,Philippines,Asia,0
+1900-01-01,Qatar,Asia,0
+1900-01-01,Saudi Arabia,Asia,0
+1900-01-01,Singapore,Asia,0
+1900-01-01,Syria,Asia,0
+1900-01-01,Thailand,Asia,0
+1900-01-01,United Arab Emirates,Asia,0
+1900-01-01,Vietnam,Asia,0
+1910-01-01,Afghanistan,Asia,0
+1910-01-01,Bahrain,Asia,0
+1910-01-01,Brunei,Asia,0
+1910-01-01,Cambodia,Asia,0
+1910-01-01,China,Asia,1.3
+1910-01-01,Cyprus,Asia,0
+1910-01-01,India,Asia,0.1
+1910-01-01,Indonesia,Asia,0
+1910-01-01,Iran,Asia,0
+1910-01-01,Iraq,Asia,0
+1910-01-01,Israel/Palestine,Asia,0
+1910-01-01,Japan,Asia,1.4
+1910-01-01,Jordan,Asia,0
+1910-01-01,Korea,Asia,0.1
+1910-01-01,Kuwait,Asia,0
+1910-01-01,Laos,Asia,0
+1910-01-01,Lebanon,Asia,0
+1910-01-01,Malaysia,Asia,0
+1910-01-01,Maldives,Asia,0
+1910-01-01,Nepal,Asia,0
+1910-01-01,Oman,Asia,0
+1910-01-01,Other Asia,Asia,0
+1910-01-01,Philippines,Asia,0
+1910-01-01,Qatar,Asia,0
+1910-01-01,Saudi Arabia,Asia,0
+1910-01-01,Singapore,Asia,0
+1910-01-01,Syria,Asia,0
+1910-01-01,Thailand,Asia,0
+1910-01-01,United Arab Emirates,Asia,0
+1910-01-01,Vietnam,Asia,0
+1920-01-01,Afghanistan,Asia,0
+1920-01-01,Bahrain,Asia,0
+1920-01-01,Brunei,Asia,0
+1920-01-01,Cambodia,Asia,0
+1920-01-01,China,Asia,0.7
+1920-01-01,Cyprus,Asia,0
+1920-01-01,India,Asia,0.1
+1920-01-01,Indonesia,Asia,0
+1920-01-01,Iran,Asia,0
+1920-01-01,Iraq,Asia,0
+1920-01-01,Israel/Palestine,Asia,0
+1920-01-01,Japan,Asia,1.5
+1920-01-01,Jordan,Asia,0
+1920-01-01,Korea,Asia,0
+1920-01-01,Kuwait,Asia,0
+1920-01-01,Laos,Asia,0
+1920-01-01,Lebanon,Asia,0
+1920-01-01,Malaysia,Asia,0
+1920-01-01,Maldives,Asia,0
+1920-01-01,Nepal,Asia,0
+1920-01-01,Oman,Asia,0
+1920-01-01,Other Asia,Asia,0
+1920-01-01,Philippines,Asia,0.1
+1920-01-01,Qatar,Asia,0
+1920-01-01,Saudi Arabia,Asia,0
+1920-01-01,Singapore,Asia,0
+1920-01-01,Syria,Asia,0
+1920-01-01,Thailand,Asia,0
+1920-01-01,United Arab Emirates,Asia,0
+1920-01-01,Vietnam,Asia,0
+1930-01-01,Afghanistan,Asia,0
+1930-01-01,Bahrain,Asia,0
+1930-01-01,Brunei,Asia,0
+1930-01-01,Cambodia,Asia,0
+1930-01-01,China,Asia,0.3
+1930-01-01,Cyprus,Asia,0
+1930-01-01,India,Asia,0
+1930-01-01,Indonesia,Asia,0
+1930-01-01,Iran,Asia,0
+1930-01-01,Iraq,Asia,0
+1930-01-01,Israel/Palestine,Asia,0
+1930-01-01,Japan,Asia,0.8
+1930-01-01,Jordan,Asia,0
+1930-01-01,Korea,Asia,0
+1930-01-01,Kuwait,Asia,0
+1930-01-01,Laos,Asia,0
+1930-01-01,Lebanon,Asia,0
+1930-01-01,Malaysia,Asia,0
+1930-01-01,Maldives,Asia,0
+1930-01-01,Nepal,Asia,0
+1930-01-01,Oman,Asia,0
+1930-01-01,Other Asia,Asia,0
+1930-01-01,Philippines,Asia,0.5
+1930-01-01,Qatar,Asia,0
+1930-01-01,Saudi Arabia,Asia,0
+1930-01-01,Singapore,Asia,0
+1930-01-01,Syria,Asia,0
+1930-01-01,Thailand,Asia,0
+1930-01-01,United Arab Emirates,Asia,0
+1930-01-01,Vietnam,Asia,0
+1940-01-01,Afghanistan,Asia,0
+1940-01-01,Bahrain,Asia,0
+1940-01-01,Brunei,Asia,0
+1940-01-01,Cambodia,Asia,0
+1940-01-01,China,Asia,0.3
+1940-01-01,Cyprus,Asia,0
+1940-01-01,India,Asia,0
+1940-01-01,Indonesia,Asia,0
+1940-01-01,Iran,Asia,0
+1940-01-01,Iraq,Asia,0
+1940-01-01,Israel/Palestine,Asia,0
+1940-01-01,Japan,Asia,0.5
+1940-01-01,Jordan,Asia,0
+1940-01-01,Korea,Asia,0
+1940-01-01,Kuwait,Asia,0
+1940-01-01,Laos,Asia,0
+1940-01-01,Lebanon,Asia,0
+1940-01-01,Malaysia,Asia,0
+1940-01-01,Maldives,Asia,0
+1940-01-01,Nepal,Asia,0
+1940-01-01,Oman,Asia,0
+1940-01-01,Other Asia,Asia,0
+1940-01-01,Philippines,Asia,0.3
+1940-01-01,Qatar,Asia,0
+1940-01-01,Saudi Arabia,Asia,0
+1940-01-01,Singapore,Asia,0
+1940-01-01,Syria,Asia,0
+1940-01-01,Thailand,Asia,0
+1940-01-01,United Arab Emirates,Asia,0
+1940-01-01,Vietnam,Asia,0
+1950-01-01,Afghanistan,Asia,0
+1950-01-01,Bahrain,Asia,0
+1950-01-01,Brunei,Asia,0
+1950-01-01,Cambodia,Asia,0
+1950-01-01,China,Asia,0.3
+1950-01-01,Cyprus,Asia,0
+1950-01-01,India,Asia,0
+1950-01-01,Indonesia,Asia,0
+1950-01-01,Iran,Asia,0
+1950-01-01,Iraq,Asia,0
+1950-01-01,Israel/Palestine,Asia,0
+1950-01-01,Japan,Asia,0.2
+1950-01-01,Jordan,Asia,0
+1950-01-01,Korea,Asia,0
+1950-01-01,Kuwait,Asia,0
+1950-01-01,Laos,Asia,0
+1950-01-01,Lebanon,Asia,0
+1950-01-01,Malaysia,Asia,0
+1950-01-01,Maldives,Asia,0
+1950-01-01,Nepal,Asia,0
+1950-01-01,Oman,Asia,0
+1950-01-01,Other Asia,Asia,0
+1950-01-01,Philippines,Asia,0.3
+1950-01-01,Qatar,Asia,0
+1950-01-01,Saudi Arabia,Asia,0
+1950-01-01,Singapore,Asia,0
+1950-01-01,Syria,Asia,0
+1950-01-01,Thailand,Asia,0
+1950-01-01,United Arab Emirates,Asia,0
+1950-01-01,Vietnam,Asia,0
+1960-01-01,Afghanistan,Asia,0
+1960-01-01,Bahrain,Asia,0
+1960-01-01,Brunei,Asia,0
+1960-01-01,Cambodia,Asia,0
+1960-01-01,China,Asia,0.3
+1960-01-01,Cyprus,Asia,0
+1960-01-01,India,Asia,0
+1960-01-01,Indonesia,Asia,0
+1960-01-01,Iran,Asia,0
+1960-01-01,Iraq,Asia,0
+1960-01-01,Israel/Palestine,Asia,0
+1960-01-01,Japan,Asia,0.2
+1960-01-01,Jordan,Asia,0
+1960-01-01,Korea,Asia,0
+1960-01-01,Kuwait,Asia,0
+1960-01-01,Laos,Asia,0
+1960-01-01,Lebanon,Asia,0
+1960-01-01,Malaysia,Asia,0
+1960-01-01,Maldives,Asia,0
+1960-01-01,Nepal,Asia,0
+1960-01-01,Oman,Asia,0
+1960-01-01,Other Asia,Asia,0.1
+1960-01-01,Philippines,Asia,0.3
+1960-01-01,Qatar,Asia,0
+1960-01-01,Saudi Arabia,Asia,0
+1960-01-01,Singapore,Asia,0
+1960-01-01,Syria,Asia,0
+1960-01-01,Thailand,Asia,0
+1960-01-01,United Arab Emirates,Asia,0
+1960-01-01,Vietnam,Asia,0
+1970-01-01,Afghanistan,Asia,0
+1970-01-01,Bahrain,Asia,0
+1970-01-01,Brunei,Asia,0
+1970-01-01,Cambodia,Asia,0
+1970-01-01,China,Asia,0.4
+1970-01-01,Cyprus,Asia,0
+1970-01-01,India,Asia,0
+1970-01-01,Indonesia,Asia,0
+1970-01-01,Iran,Asia,0
+1970-01-01,Iraq,Asia,0
+1970-01-01,Israel/Palestine,Asia,0
+1970-01-01,Japan,Asia,0.3
+1970-01-01,Jordan,Asia,0
+1970-01-01,Korea,Asia,0.1
+1970-01-01,Kuwait,Asia,0
+1970-01-01,Laos,Asia,0
+1970-01-01,Lebanon,Asia,0
+1970-01-01,Malaysia,Asia,0
+1970-01-01,Maldives,Asia,0
+1970-01-01,Nepal,Asia,0
+1970-01-01,Oman,Asia,0
+1970-01-01,Other Asia,Asia,0.2
+1970-01-01,Philippines,Asia,0.4
+1970-01-01,Qatar,Asia,0
+1970-01-01,Saudi Arabia,Asia,0
+1970-01-01,Singapore,Asia,0
+1970-01-01,Syria,Asia,0
+1970-01-01,Thailand,Asia,0
+1970-01-01,United Arab Emirates,Asia,0
+1970-01-01,Vietnam,Asia,0
+1980-01-01,Afghanistan,Asia,0
+1980-01-01,Bahrain,Asia,0
+1980-01-01,Brunei,Asia,0
+1980-01-01,Cambodia,Asia,0
+1980-01-01,China,Asia,0.8
+1980-01-01,Cyprus,Asia,0
+1980-01-01,India,Asia,0.2
+1980-01-01,Indonesia,Asia,0.1
+1980-01-01,Iran,Asia,0.2
+1980-01-01,Iraq,Asia,0
+1980-01-01,Israel/Palestine,Asia,0.1
+1980-01-01,Japan,Asia,0.4
+1980-01-01,Jordan,Asia,0
+1980-01-01,Korea,Asia,0.4
+1980-01-01,Kuwait,Asia,0
+1980-01-01,Laos,Asia,0.1
+1980-01-01,Lebanon,Asia,0.1
+1980-01-01,Malaysia,Asia,0
+1980-01-01,Maldives,Asia,0
+1980-01-01,Nepal,Asia,0
+1980-01-01,Oman,Asia,0
+1980-01-01,Other Asia,Asia,0
+1980-01-01,Philippines,Asia,1.1
+1980-01-01,Qatar,Asia,0
+1980-01-01,Saudi Arabia,Asia,0
+1980-01-01,Singapore,Asia,0
+1980-01-01,Syria,Asia,0
+1980-01-01,Thailand,Asia,0.1
+1980-01-01,United Arab Emirates,Asia,0
+1980-01-01,Vietnam,Asia,0.4
+1990-01-01,Afghanistan,Asia,0
+1990-01-01,Bahrain,Asia,0
+1990-01-01,Brunei,Asia,0
+1990-01-01,Cambodia,Asia,0.2
+1990-01-01,China,Asia,1.3
+1990-01-01,Cyprus,Asia,0
+1990-01-01,India,Asia,0.4
+1990-01-01,Indonesia,Asia,0.1
+1990-01-01,Iran,Asia,0.4
+1990-01-01,Iraq,Asia,0
+1990-01-01,Israel/Palestine,Asia,0.1
+1990-01-01,Japan,Asia,0.4
+1990-01-01,Jordan,Asia,0
+1990-01-01,Korea,Asia,0.7
+1990-01-01,Kuwait,Asia,0
+1990-01-01,Laos,Asia,0.3
+1990-01-01,Lebanon,Asia,0.1
+1990-01-01,Malaysia,Asia,0
+1990-01-01,Maldives,Asia,0
+1990-01-01,Nepal,Asia,0
+1990-01-01,Oman,Asia,0
+1990-01-01,Other Asia,Asia,0
+1990-01-01,Philippines,Asia,1.7
+1990-01-01,Qatar,Asia,0
+1990-01-01,Saudi Arabia,Asia,0
+1990-01-01,Singapore,Asia,0
+1990-01-01,Syria,Asia,0
+1990-01-01,Thailand,Asia,0.2
+1990-01-01,United Arab Emirates,Asia,0
+1990-01-01,Vietnam,Asia,0.9
+2000-01-01,Afghanistan,Asia,0.1
+2000-01-01,Bahrain,Asia,0
+2000-01-01,Brunei,Asia,0
+2000-01-01,Cambodia,Asia,0.2
+2000-01-01,China,Asia,1.7
+2000-01-01,Cyprus,Asia,0
+2000-01-01,India,Asia,0.8
+2000-01-01,Indonesia,Asia,0.1
+2000-01-01,Iran,Asia,0.5
+2000-01-01,Iraq,Asia,0.1
+2000-01-01,Israel/Palestine,Asia,0.1
+2000-01-01,Japan,Asia,0.4
+2000-01-01,Jordan,Asia,0
+2000-01-01,Korea,Asia,0.8
+2000-01-01,Kuwait,Asia,0
+2000-01-01,Laos,Asia,0.2
+2000-01-01,Lebanon,Asia,0.1
+2000-01-01,Malaysia,Asia,0
+2000-01-01,Maldives,Asia,0
+2000-01-01,Nepal,Asia,0
+2000-01-01,Oman,Asia,0
+2000-01-01,Other Asia,Asia,0.1
+2000-01-01,Philippines,Asia,2
+2000-01-01,Qatar,Asia,0
+2000-01-01,Saudi Arabia,Asia,0
+2000-01-01,Singapore,Asia,0
+2000-01-01,Syria,Asia,0
+2000-01-01,Thailand,Asia,0.2
+2000-01-01,United Arab Emirates,Asia,0
+2000-01-01,Vietnam,Asia,1.3
+2001-01-01,Afghanistan,Asia,0.1
+2001-01-01,Bahrain,Asia,0
+2001-01-01,Brunei,Asia,0
+2001-01-01,Cambodia,Asia,0.1
+2001-01-01,China,Asia,1.8
+2001-01-01,Cyprus,Asia,0
+2001-01-01,India,Asia,0.9
+2001-01-01,Indonesia,Asia,0.1
+2001-01-01,Iran,Asia,0.5
+2001-01-01,Iraq,Asia,0.1
+2001-01-01,Israel/Palestine,Asia,0.1
+2001-01-01,Japan,Asia,0.5
+2001-01-01,Jordan,Asia,0.1
+2001-01-01,Korea,Asia,0.8
+2001-01-01,Kuwait,Asia,0
+2001-01-01,Laos,Asia,0.2
+2001-01-01,Lebanon,Asia,0.1
+2001-01-01,Malaysia,Asia,0
+2001-01-01,Maldives,Asia,0
+2001-01-01,Nepal,Asia,0
+2001-01-01,Oman,Asia,0
+2001-01-01,Other Asia,Asia,0
+2001-01-01,Philippines,Asia,2
+2001-01-01,Qatar,Asia,0
+2001-01-01,Saudi Arabia,Asia,0
+2001-01-01,Singapore,Asia,0
+2001-01-01,Syria,Asia,0.1
+2001-01-01,Thailand,Asia,0.2
+2001-01-01,United Arab Emirates,Asia,0
+2001-01-01,Vietnam,Asia,1.1
+2002-01-01,Afghanistan,Asia,0.1
+2002-01-01,Bahrain,Asia,0
+2002-01-01,Brunei,Asia,0
+2002-01-01,Cambodia,Asia,0.2
+2002-01-01,China,Asia,1.8
+2002-01-01,Cyprus,Asia,0
+2002-01-01,India,Asia,1
+2002-01-01,Indonesia,Asia,0.1
+2002-01-01,Iran,Asia,0.5
+2002-01-01,Iraq,Asia,0.1
+2002-01-01,Israel/Palestine,Asia,0.1
+2002-01-01,Japan,Asia,0.4
+2002-01-01,Jordan,Asia,0
+2002-01-01,Korea,Asia,0.8
+2002-01-01,Kuwait,Asia,0
+2002-01-01,Laos,Asia,0.2
+2002-01-01,Lebanon,Asia,0.1
+2002-01-01,Malaysia,Asia,0
+2002-01-01,Maldives,Asia,0
+2002-01-01,Nepal,Asia,0
+2002-01-01,Oman,Asia,0
+2002-01-01,Other Asia,Asia,0
+2002-01-01,Philippines,Asia,2.1
+2002-01-01,Qatar,Asia,0
+2002-01-01,Saudi Arabia,Asia,0
+2002-01-01,Singapore,Asia,0
+2002-01-01,Syria,Asia,0.1
+2002-01-01,Thailand,Asia,0.2
+2002-01-01,United Arab Emirates,Asia,0
+2002-01-01,Vietnam,Asia,1.2
+2003-01-01,Afghanistan,Asia,0.1
+2003-01-01,Bahrain,Asia,0
+2003-01-01,Brunei,Asia,0
+2003-01-01,Cambodia,Asia,0.1
+2003-01-01,China,Asia,1.9
+2003-01-01,Cyprus,Asia,0
+2003-01-01,India,Asia,1
+2003-01-01,Indonesia,Asia,0.1
+2003-01-01,Iran,Asia,0.5
+2003-01-01,Iraq,Asia,0.1
+2003-01-01,Israel/Palestine,Asia,0.1
+2003-01-01,Japan,Asia,0.4
+2003-01-01,Jordan,Asia,0
+2003-01-01,Korea,Asia,0.9
+2003-01-01,Kuwait,Asia,0
+2003-01-01,Laos,Asia,0.2
+2003-01-01,Lebanon,Asia,0.1
+2003-01-01,Malaysia,Asia,0
+2003-01-01,Maldives,Asia,0
+2003-01-01,Nepal,Asia,0
+2003-01-01,Oman,Asia,0
+2003-01-01,Other Asia,Asia,0
+2003-01-01,Philippines,Asia,2
+2003-01-01,Qatar,Asia,0
+2003-01-01,Saudi Arabia,Asia,0
+2003-01-01,Singapore,Asia,0
+2003-01-01,Syria,Asia,0
+2003-01-01,Thailand,Asia,0.1
+2003-01-01,United Arab Emirates,Asia,0
+2003-01-01,Vietnam,Asia,1.3
+2004-01-01,Afghanistan,Asia,0.1
+2004-01-01,Bahrain,Asia,0
+2004-01-01,Brunei,Asia,0
+2004-01-01,Cambodia,Asia,0.1
+2004-01-01,China,Asia,1.9
+2004-01-01,Cyprus,Asia,0
+2004-01-01,India,Asia,0.9
+2004-01-01,Indonesia,Asia,0.1
+2004-01-01,Iran,Asia,0.5
+2004-01-01,Iraq,Asia,0.1
+2004-01-01,Israel/Palestine,Asia,0.1
+2004-01-01,Japan,Asia,0.4
+2004-01-01,Jordan,Asia,0
+2004-01-01,Korea,Asia,0.9
+2004-01-01,Kuwait,Asia,0
+2004-01-01,Laos,Asia,0.2
+2004-01-01,Lebanon,Asia,0.1
+2004-01-01,Malaysia,Asia,0
+2004-01-01,Maldives,Asia,0
+2004-01-01,Nepal,Asia,0
+2004-01-01,Oman,Asia,0
+2004-01-01,Other Asia,Asia,0.1
+2004-01-01,Philippines,Asia,2.1
+2004-01-01,Qatar,Asia,0
+2004-01-01,Saudi Arabia,Asia,0
+2004-01-01,Singapore,Asia,0
+2004-01-01,Syria,Asia,0
+2004-01-01,Thailand,Asia,0.2
+2004-01-01,United Arab Emirates,Asia,0
+2004-01-01,Vietnam,Asia,1.3
+2005-01-01,Afghanistan,Asia,0.1
+2005-01-01,Bahrain,Asia,0
+2005-01-01,Brunei,Asia,0
+2005-01-01,Cambodia,Asia,0.2
+2005-01-01,China,Asia,1.8
+2005-01-01,Cyprus,Asia,0
+2005-01-01,India,Asia,1
+2005-01-01,Indonesia,Asia,0.1
+2005-01-01,Iran,Asia,0.5
+2005-01-01,Iraq,Asia,0.1
+2005-01-01,Israel/Palestine,Asia,0.1
+2005-01-01,Japan,Asia,0.4
+2005-01-01,Jordan,Asia,0
+2005-01-01,Korea,Asia,0.9
+2005-01-01,Kuwait,Asia,0
+2005-01-01,Laos,Asia,0.2
+2005-01-01,Lebanon,Asia,0.1
+2005-01-01,Malaysia,Asia,0
+2005-01-01,Maldives,Asia,0
+2005-01-01,Nepal,Asia,0
+2005-01-01,Oman,Asia,0
+2005-01-01,Other Asia,Asia,0.1
+2005-01-01,Philippines,Asia,2.2
+2005-01-01,Qatar,Asia,0
+2005-01-01,Saudi Arabia,Asia,0
+2005-01-01,Singapore,Asia,0
+2005-01-01,Syria,Asia,0
+2005-01-01,Thailand,Asia,0.2
+2005-01-01,United Arab Emirates,Asia,0
+2005-01-01,Vietnam,Asia,1.3
+2006-01-01,Afghanistan,Asia,0.1
+2006-01-01,Bahrain,Asia,0
+2006-01-01,Brunei,Asia,0
+2006-01-01,Cambodia,Asia,0.2
+2006-01-01,China,Asia,1.8
+2006-01-01,Cyprus,Asia,0
+2006-01-01,India,Asia,1
+2006-01-01,Indonesia,Asia,0.1
+2006-01-01,Iran,Asia,0.5
+2006-01-01,Iraq,Asia,0.1
+2006-01-01,Israel/Palestine,Asia,0.1
+2006-01-01,Japan,Asia,0.4
+2006-01-01,Jordan,Asia,0
+2006-01-01,Korea,Asia,0.9
+2006-01-01,Kuwait,Asia,0
+2006-01-01,Laos,Asia,0.2
+2006-01-01,Lebanon,Asia,0.1
+2006-01-01,Malaysia,Asia,0
+2006-01-01,Maldives,Asia,0
+2006-01-01,Nepal,Asia,0
+2006-01-01,Oman,Asia,0
+2006-01-01,Other Asia,Asia,0.1
+2006-01-01,Philippines,Asia,2.1
+2006-01-01,Qatar,Asia,0
+2006-01-01,Saudi Arabia,Asia,0
+2006-01-01,Singapore,Asia,0
+2006-01-01,Syria,Asia,0.1
+2006-01-01,Thailand,Asia,0.2
+2006-01-01,United Arab Emirates,Asia,0
+2006-01-01,Vietnam,Asia,1.3
+2007-01-01,Afghanistan,Asia,0.1
+2007-01-01,Bahrain,Asia,0
+2007-01-01,Brunei,Asia,0
+2007-01-01,Cambodia,Asia,0.2
+2007-01-01,China,Asia,1.9
+2007-01-01,Cyprus,Asia,0
+2007-01-01,India,Asia,1
+2007-01-01,Indonesia,Asia,0.1
+2007-01-01,Iran,Asia,0.5
+2007-01-01,Iraq,Asia,0
+2007-01-01,Israel/Palestine,Asia,0.1
+2007-01-01,Japan,Asia,0.4
+2007-01-01,Jordan,Asia,0.1
+2007-01-01,Korea,Asia,0.9
+2007-01-01,Kuwait,Asia,0
+2007-01-01,Laos,Asia,0.2
+2007-01-01,Lebanon,Asia,0.1
+2007-01-01,Malaysia,Asia,0
+2007-01-01,Maldives,Asia,0
+2007-01-01,Nepal,Asia,0
+2007-01-01,Oman,Asia,0
+2007-01-01,Other Asia,Asia,0.1
+2007-01-01,Philippines,Asia,2.3
+2007-01-01,Qatar,Asia,0
+2007-01-01,Saudi Arabia,Asia,0
+2007-01-01,Singapore,Asia,0
+2007-01-01,Syria,Asia,0
+2007-01-01,Thailand,Asia,0.2
+2007-01-01,United Arab Emirates,Asia,0
+2007-01-01,Vietnam,Asia,1.2
+2008-01-01,Afghanistan,Asia,0.1
+2008-01-01,Bahrain,Asia,0
+2008-01-01,Brunei,Asia,0
+2008-01-01,Cambodia,Asia,0.1
+2008-01-01,China,Asia,1.8
+2008-01-01,Cyprus,Asia,0
+2008-01-01,India,Asia,1.1
+2008-01-01,Indonesia,Asia,0.1
+2008-01-01,Iran,Asia,0.5
+2008-01-01,Iraq,Asia,0.1
+2008-01-01,Israel/Palestine,Asia,0.1
+2008-01-01,Japan,Asia,0.4
+2008-01-01,Jordan,Asia,0
+2008-01-01,Korea,Asia,0.9
+2008-01-01,Kuwait,Asia,0
+2008-01-01,Laos,Asia,0.2
+2008-01-01,Lebanon,Asia,0.1
+2008-01-01,Malaysia,Asia,0
+2008-01-01,Maldives,Asia,0
+2008-01-01,Nepal,Asia,0
+2008-01-01,Oman,Asia,0
+2008-01-01,Other Asia,Asia,0.1
+2008-01-01,Philippines,Asia,2.3
+2008-01-01,Qatar,Asia,0
+2008-01-01,Saudi Arabia,Asia,0
+2008-01-01,Singapore,Asia,0
+2008-01-01,Syria,Asia,0.1
+2008-01-01,Thailand,Asia,0.2
+2008-01-01,United Arab Emirates,Asia,0
+2008-01-01,Vietnam,Asia,1.3
+2009-01-01,Afghanistan,Asia,0.1
+2009-01-01,Bahrain,Asia,0
+2009-01-01,Brunei,Asia,0
+2009-01-01,Cambodia,Asia,0.2
+2009-01-01,China,Asia,1.9
+2009-01-01,Cyprus,Asia,0
+2009-01-01,India,Asia,1.1
+2009-01-01,Indonesia,Asia,0.1
+2009-01-01,Iran,Asia,0.6
+2009-01-01,Iraq,Asia,0.1
+2009-01-01,Israel/Palestine,Asia,0.1
+2009-01-01,Japan,Asia,0.4
+2009-01-01,Jordan,Asia,0
+2009-01-01,Korea,Asia,0.9
+2009-01-01,Kuwait,Asia,0
+2009-01-01,Laos,Asia,0.2
+2009-01-01,Lebanon,Asia,0.1
+2009-01-01,Malaysia,Asia,0
+2009-01-01,Maldives,Asia,0
+2009-01-01,Nepal,Asia,0
+2009-01-01,Oman,Asia,0
+2009-01-01,Other Asia,Asia,0.1
+2009-01-01,Philippines,Asia,2.2
+2009-01-01,Qatar,Asia,0
+2009-01-01,Saudi Arabia,Asia,0
+2009-01-01,Singapore,Asia,0
+2009-01-01,Syria,Asia,0.1
+2009-01-01,Thailand,Asia,0.2
+2009-01-01,United Arab Emirates,Asia,0
+2009-01-01,Vietnam,Asia,1.2
+2010-01-01,Afghanistan,Asia,0.1
+2010-01-01,Bahrain,Asia,0
+2010-01-01,Brunei,Asia,0
+2010-01-01,Cambodia,Asia,0.2
+2010-01-01,China,Asia,2
+2010-01-01,Cyprus,Asia,0
+2010-01-01,India,Asia,1.1
+2010-01-01,Indonesia,Asia,0.1
+2010-01-01,Iran,Asia,0.5
+2010-01-01,Iraq,Asia,0.1
+2010-01-01,Israel/Palestine,Asia,0.1
+2010-01-01,Japan,Asia,0.4
+2010-01-01,Jordan,Asia,0
+2010-01-01,Korea,Asia,1
+2010-01-01,Kuwait,Asia,0
+2010-01-01,Laos,Asia,0.2
+2010-01-01,Lebanon,Asia,0.1
+2010-01-01,Malaysia,Asia,0
+2010-01-01,Maldives,Asia,0
+2010-01-01,Nepal,Asia,0
+2010-01-01,Oman,Asia,0
+2010-01-01,Other Asia,Asia,0.1
+2010-01-01,Philippines,Asia,2.3
+2010-01-01,Qatar,Asia,0
+2010-01-01,Saudi Arabia,Asia,0
+2010-01-01,Singapore,Asia,0
+2010-01-01,Syria,Asia,0
+2010-01-01,Thailand,Asia,0.2
+2010-01-01,United Arab Emirates,Asia,0
+2010-01-01,Vietnam,Asia,1.3
+2011-01-01,Afghanistan,Asia,0.1
+2011-01-01,Bahrain,Asia,0
+2011-01-01,Brunei,Asia,0
+2011-01-01,Cambodia,Asia,0.1
+2011-01-01,China,Asia,2.1
+2011-01-01,Cyprus,Asia,0
+2011-01-01,India,Asia,1.3
+2011-01-01,Indonesia,Asia,0.1
+2011-01-01,Iran,Asia,0.5
+2011-01-01,Iraq,Asia,0.1
+2011-01-01,Israel/Palestine,Asia,0.1
+2011-01-01,Japan,Asia,0.4
+2011-01-01,Jordan,Asia,0
+2011-01-01,Korea,Asia,0.9
+2011-01-01,Kuwait,Asia,0
+2011-01-01,Laos,Asia,0.2
+2011-01-01,Lebanon,Asia,0.1
+2011-01-01,Malaysia,Asia,0
+2011-01-01,Maldives,Asia,0
+2011-01-01,Nepal,Asia,0
+2011-01-01,Oman,Asia,0
+2011-01-01,Other Asia,Asia,0.1
+2011-01-01,Philippines,Asia,2.3
+2011-01-01,Qatar,Asia,0
+2011-01-01,Saudi Arabia,Asia,0
+2011-01-01,Singapore,Asia,0
+2011-01-01,Syria,Asia,0.1
+2011-01-01,Thailand,Asia,0.2
+2011-01-01,United Arab Emirates,Asia,0
+2011-01-01,Vietnam,Asia,1.3
+2012-01-01,Afghanistan,Asia,0.1
+2012-01-01,Bahrain,Asia,0
+2012-01-01,Brunei,Asia,0
+2012-01-01,Cambodia,Asia,0.2
+2012-01-01,China,Asia,2.1
+2012-01-01,Cyprus,Asia,0
+2012-01-01,India,Asia,1.3
+2012-01-01,Indonesia,Asia,0.1
+2012-01-01,Iran,Asia,0.6
+2012-01-01,Iraq,Asia,0.1
+2012-01-01,Israel/Palestine,Asia,0.1
+2012-01-01,Japan,Asia,0.4
+2012-01-01,Jordan,Asia,0
+2012-01-01,Korea,Asia,0.9
+2012-01-01,Kuwait,Asia,0
+2012-01-01,Laos,Asia,0.1
+2012-01-01,Lebanon,Asia,0.1
+2012-01-01,Malaysia,Asia,0
+2012-01-01,Maldives,Asia,0
+2012-01-01,Nepal,Asia,0
+2012-01-01,Oman,Asia,0
+2012-01-01,Other Asia,Asia,0.1
+2012-01-01,Philippines,Asia,2.3
+2012-01-01,Qatar,Asia,0
+2012-01-01,Saudi Arabia,Asia,0
+2012-01-01,Singapore,Asia,0
+2012-01-01,Syria,Asia,0.1
+2012-01-01,Thailand,Asia,0.2
+2012-01-01,United Arab Emirates,Asia,0
+2012-01-01,Vietnam,Asia,1.4
+2013-01-01,Afghanistan,Asia,0.1
+2013-01-01,Bahrain,Asia,0
+2013-01-01,Brunei,Asia,0
+2013-01-01,Cambodia,Asia,0.2
+2013-01-01,China,Asia,2.1
+2013-01-01,Cyprus,Asia,0
+2013-01-01,India,Asia,1.4
+2013-01-01,Indonesia,Asia,0.1
+2013-01-01,Iran,Asia,0.5
+2013-01-01,Iraq,Asia,0.1
+2013-01-01,Israel/Palestine,Asia,0.1
+2013-01-01,Japan,Asia,0.4
+2013-01-01,Jordan,Asia,0
+2013-01-01,Korea,Asia,0.9
+2013-01-01,Kuwait,Asia,0
+2013-01-01,Laos,Asia,0.1
+2013-01-01,Lebanon,Asia,0.1
+2013-01-01,Malaysia,Asia,0
+2013-01-01,Maldives,Asia,0
+2013-01-01,Nepal,Asia,0
+2013-01-01,Oman,Asia,0
+2013-01-01,Other Asia,Asia,0.1
+2013-01-01,Philippines,Asia,2.2
+2013-01-01,Qatar,Asia,0
+2013-01-01,Saudi Arabia,Asia,0
+2013-01-01,Singapore,Asia,0
+2013-01-01,Syria,Asia,0.1
+2013-01-01,Thailand,Asia,0.2
+2013-01-01,United Arab Emirates,Asia,0
+2013-01-01,Vietnam,Asia,1.4
+2014-01-01,Afghanistan,Asia,0.1
+2014-01-01,Bahrain,Asia,0
+2014-01-01,Brunei,Asia,0
+2014-01-01,Cambodia,Asia,0.2
+2014-01-01,China,Asia,2.2
+2014-01-01,Cyprus,Asia,0
+2014-01-01,India,Asia,1.4
+2014-01-01,Indonesia,Asia,0.1
+2014-01-01,Iran,Asia,0.5
+2014-01-01,Iraq,Asia,0.1
+2014-01-01,Israel/Palestine,Asia,0.1
+2014-01-01,Japan,Asia,0.4
+2014-01-01,Jordan,Asia,0
+2014-01-01,Korea,Asia,0.9
+2014-01-01,Kuwait,Asia,0
+2014-01-01,Laos,Asia,0.2
+2014-01-01,Lebanon,Asia,0.1
+2014-01-01,Malaysia,Asia,0
+2014-01-01,Maldives,Asia,0
+2014-01-01,Nepal,Asia,0
+2014-01-01,Oman,Asia,0
+2014-01-01,Other Asia,Asia,0.1
+2014-01-01,Philippines,Asia,2.3
+2014-01-01,Qatar,Asia,0
+2014-01-01,Saudi Arabia,Asia,0
+2014-01-01,Singapore,Asia,0
+2014-01-01,Syria,Asia,0.1
+2014-01-01,Thailand,Asia,0.2
+2014-01-01,United Arab Emirates,Asia,0
+2014-01-01,Vietnam,Asia,1.3
+2015-01-01,Afghanistan,Asia,0.1
+2015-01-01,Bahrain,Asia,0
+2015-01-01,Brunei,Asia,0
+2015-01-01,Cambodia,Asia,0.2
+2015-01-01,China,Asia,2.4
+2015-01-01,Cyprus,Asia,0
+2015-01-01,India,Asia,1.5
+2015-01-01,Indonesia,Asia,0.1
+2015-01-01,Iran,Asia,0.5
+2015-01-01,Iraq,Asia,0.1
+2015-01-01,Israel/Palestine,Asia,0.1
+2015-01-01,Japan,Asia,0.4
+2015-01-01,Jordan,Asia,0
+2015-01-01,Korea,Asia,0.9
+2015-01-01,Kuwait,Asia,0
+2015-01-01,Laos,Asia,0.1
+2015-01-01,Lebanon,Asia,0.1
+2015-01-01,Malaysia,Asia,0
+2015-01-01,Maldives,Asia,0
+2015-01-01,Nepal,Asia,0
+2015-01-01,Oman,Asia,0
+2015-01-01,Other Asia,Asia,0.1
+2015-01-01,Philippines,Asia,2.3
+2015-01-01,Qatar,Asia,0
+2015-01-01,Saudi Arabia,Asia,0
+2015-01-01,Singapore,Asia,0
+2015-01-01,Syria,Asia,0.1
+2015-01-01,Thailand,Asia,0.2
+2015-01-01,United Arab Emirates,Asia,0
+2015-01-01,Vietnam,Asia,1.3
+2016-01-01,Afghanistan,Asia,0.1
+2016-01-01,Bahrain,Asia,0
+2016-01-01,Brunei,Asia,0
+2016-01-01,Cambodia,Asia,0.2
+2016-01-01,China,Asia,2.4
+2016-01-01,Cyprus,Asia,0
+2016-01-01,India,Asia,1.5
+2016-01-01,Indonesia,Asia,0.1
+2016-01-01,Iran,Asia,0.6
+2016-01-01,Iraq,Asia,0.1
+2016-01-01,Israel/Palestine,Asia,0.1
+2016-01-01,Japan,Asia,0.4
+2016-01-01,Jordan,Asia,0
+2016-01-01,Korea,Asia,0.9
+2016-01-01,Kuwait,Asia,0
+2016-01-01,Laos,Asia,0.1
+2016-01-01,Lebanon,Asia,0.1
+2016-01-01,Malaysia,Asia,0
+2016-01-01,Maldives,Asia,0
+2016-01-01,Nepal,Asia,0
+2016-01-01,Oman,Asia,0
+2016-01-01,Other Asia,Asia,0.1
+2016-01-01,Philippines,Asia,2.2
+2016-01-01,Qatar,Asia,0
+2016-01-01,Saudi Arabia,Asia,0
+2016-01-01,Singapore,Asia,0
+2016-01-01,Syria,Asia,0.1
+2016-01-01,Thailand,Asia,0.2
+2016-01-01,United Arab Emirates,Asia,0
+2016-01-01,Vietnam,Asia,1.4
