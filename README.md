@@ -1,4 +1,4 @@
-# immigration
+# Our Immigrant Story
 
 Code (JS/D3v5) and data behind The San Diego Union-Tribune's [Our Immigrant Story](https://s3-us-west-1.amazonaws.com/ut-webassets/html/our-immigrant-story/immigrants.html) 
 
