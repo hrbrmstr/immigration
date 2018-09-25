@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- MIT LICENSED- >
+<!--
+Copyright 2018 Bob Rudis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and 
+associated documentation files (the "Software"),to deal in the Software without restriction, 
+including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, 
+and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, 
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial 
+portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT 
+NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,DAMAGES OR OTHER LIABILITY,
+ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
+ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
+-->
+
+<meta charset="utf-8"/>
+<script src="d3.v5.min.js"></script>
+<style>
+svg {
+  margin-left:auto; 
+  margin-right:auto; 
+  display:block;
+  cursor: crosshair;
+}
+  
+.axis {
+  font-family: Verdana, sans-serif; 
+  font-size: 11px;
+  fill: #b2b2b2;
+}
+
+.tick text {
+  font-family: Verdana, sans-serif; 
+  font-size: 11px;
+  fill: #b2b2b2;
+}
+
+.pointer {
+  user-select: none;
+  pointer-events: none;
+}
+
+.annotation {
+  font-family: Verdana, sans-serif; 
+  font-size: 11px;
+  fill: #2b2b2b;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  pointer-events: none;
+}
+
+.axis-title {
+  font-family: Verdana, sans-serif; 
+  font-size: 11px;
+  fill: #b2b2b2;
+}
+  
+.axis path, .axis line {
+  fill: none;
+  stroke: #b2b2b2;
+  shape-rendering: crispEdges;
+}
+
+.grid line {
+  stroke: lightgrey;
+  stroke-opacity: 0.7;
+  shape-rendering: crispEdges;
+}
+
+.grid path {
+ stroke-width: 0;
+}
+
+.plot-title {
+  font-family: Verdana; 
+  font-size: 20px; 
+  fill: rgb(0, 0, 0); 
+  opacity: 1; 
+  font-weight: 700; 
+  white-space: pre;
+}
+
+div.tooltip {
+  position: absolute;
+  text-align: left;
+  width: 150px;
+  height: 40px;
+  padding-top: 8px;
+  padding-left: 6px;
+  padding-right: 4px;
+  padding-bottom: 4px;
+  font: 12px sans-serif;
+  background: white;
+  border: 0.5px solid #2b2b2b;
+  border-radius: 1px;
+  pointer-events: none;
+}
+</style>
+</head>
+<body>
+
+<center><h3 class="plot-title">California foreign-born residents by country of birth</h3></center>
+<div id="streamdiv"></div>
+<center><img src="legend.jpg" width="60%"/></center>
+<script>
+d3.csv('imtst.csv').then(function(data) {
+
+// ******************
+// Vis box
+// ******************
+
+var margin = { top: 20, right: 20, bottom: 100, left: 50 };
+var width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+// ******************
+// Helpers we'll need
+// ******************
+
+var parseYear = d3.timeParse("%Y-%m-%d");
+var formatYear = d3.timeFormat("%Y");
+var bisectDate = d3.bisector(d=> d.date).left;
+
+// ******************
+// Transform the CSV data and prep it for ribbon computation
+// ******************
+
+var nested_data = d3.nest().key(d => d.year).entries(data);
+
+var vis_data = nested_data.map((d) => {
+   var obj = { year: parseYear(d.key) };
+   d.values.forEach((v) => {
+      obj[v.country] = v.percent/100;
+      obj.continent = v.continent;
+   });
+   return(obj);
+  });
+
+var yrs = vis_data.map(d => formatYear(d.year));
+
+var stack = d3.stack()
+              .keys(d3.set(data.map(d => d.country)).values())
+              .order(d3.stackOrderNone)
+              .offset(d3.stackOffsetZero);
+
+var series = stack(vis_data);
+
+// ******************
+// Setup X & Y Scales
+// ******************
+
+var x = d3.scaleTime()
+          .domain(d3.extent(data, d => parseYear(d.year)))
+          .range([0, width]);
+
+var y = d3.scaleLinear()
+          .domain([0, 0.40])
+          .range([height, 0]);
+
+// We'll use the to map country-to-group; We could have computed this; I was being lazy
+
+var c2c = d3.scaleOrdinal()
+          .domain([ "Unknown/Other","Oceania","South America","Canada","Mexico","Other North America","Albania","Andorra","Austria","Belgium","Bulgaria","Czechoslovakia","Denmark","England","Estonia","Finland","France","Germany","Gibraltar","Greece","Hungary","Iceland","Ireland","Italy","Latvia","Liechtenstein","Lithuania","Luxembourg","Malta","Monaco","Netherlands","Norway","Other Europe","Poland","Portugal","Romania","San Marino","Scotland","Spain","Sweden","Switzerland","Turkey","Wales","Yugoslavia","Africa","Afghanistan","Bahrain","Brunei","Cambodia","China","Cyprus","India","Indonesia","Iran","Iraq","Israel/Palestine","Japan","Jordan","Korea","Kuwait","Laos","Lebanon","Malaysia","Maldives","Nepal","Oman","Other Asia","Philippines","Qatar","Saudi Arabia","Singapore","Syria","Thailand","United Arab Emirates","Vietnam" ])
+          .range([ "Unknown/Other","Oceania","South America","North America","North America","North America","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Africa","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia","Asia" ]);
+
+// We'll use this to finally get the group colors
+
+// ******************
+// Setup color scale
+// ******************
+
+var color = d3.scaleOrdinal()
+              .domain(["Africa", "Asia", "Europe" ,"North America", "Oceania", "South America", "Unknown/Other"])
+              .range([ "#E34A27", "#F3B94E", "#3781B2", "#AA7FB3", "#62B8D4", "#ADC737", "#CBCCCB" ]);
+              
+
+// ******************
+// Give the necessary data to the D3 function that computes the ribbons
+// ******************
+
+var area = d3.area()
+             .x(d => x(d.data.year))
+             .y0(d => y(d[0]))
+             .y1(d => y(d[1]))
+             .curve(d3.curveLinear);
+
+// ******************
+// Prep tooltips
+// ******************
+
+var tip = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
+// ******************
+// Make the container
+// ******************
+
+var svg = d3.select("#streamdiv").append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform",
+                  "translate(" + margin.left + "," + margin.top + ")");
+
+// ******************
+// Handle background grid
+// ******************
+
+function make_y_gridlines() {		
+  return d3.axisLeft(y).ticks(5)
+}
+
+svg.append("g")			
+    .attr("class", "grid")
+    .call(make_y_gridlines()
+        .tickSize(-width)
+        .tickFormat("")
+    )              
+             
+// ******************
+// Handle the actual streamgraph
+// ******************
+    
+svg.selectAll('.series')
+     .data(series)
+     .enter().append("path")
+     .attr("class", "series")
+     .attr("d", area)
+     .attr("stroke", "white")
+     .attr("stroke-width", "0.5px") // <======= change this for thicker white lines
+     .style("fill", d => color(c2c(d.key)))
+     .style("opacity", 0.65) // <== can change this for a lighter start color
+     .on("mouseleave", (_, i, n) => {
+        d3.select(d3.event.currentTarget).style("opacity", 0.65) // <== can change this for a lighter start color
+     })
+     .on("mouseenter", (d) => {
+       d3.select(d3.event.currentTarget).style("opacity", 1.0)  // <== full opacity color
+     })
+     .on('mousemove', (d, i) => {
+
+        // To make the tooltips we have to know what the underlying data is.
+        // That's a pain with streamgraphs since there's lots of "fluidity"
+        // across the axes (i.e. there isn't data for every possible X,Y mouse coordinate).
+        //
+        // So, we have to get the mouse coordinate and reverse engineer the year
+        // then pick the closest year that we have data for.
+        // 
+        // Then, we have to invert the mouse data for the Y axis (provided we needed it).
+        // We don't for this adventure, but I left it in for reference.
+        //
+        // Then we need to lookup the data for the X YEAR + Y COUNTRY and handle the
+        // edge cases where we don't have any.
+        //
+        // Doing all ^^ makes the tooltip motion less jerky.
+
+        var m = d3.mouse(d3.event.currentTarget);
+
+        var yr = formatYear(x.invert(m[0]));
+        yr = (Math.round(parseInt(yr) / 10) * 10) + "";
+        var yr_idx = yrs.indexOf(yr);
+
+        var cidx = Math.abs(-75 + i); // not necessary now but is in other D3 vis contexts
+
+        if (yr_idx != -1) {
+
+          var pct = 0;
+          if (!(typeof vis_data[yr_idx] === 'undefined')) {
+            var tmp = vis_data[yr_idx];
+            if (!(typeof tmp[d.key] === 'undefined')) {
+              pct = d3.format(".2%")(tmp[d.key]); // <========== change this for more precision
+            }
+          } 
+
+          tip.transition()
+            .duration(100) // <<<<<<<<========== tweak this to your liking
+            .style("opacity", .9); // <<<<<<<<========== tweak this to your liking
+
+          tip.html("<b>Year:</b> " + yr + 
+                    "<br/><b>Percent:</b> " + pct + 
+                    "<br/><b>Country:</b> " + d.key)
+            .style("left", (d3.event.pageX) + "px")
+            .style("top", (d3.event.pageY - 28) + "px");
+
+
+        }
+
+     })
+     .on('mouseout', (d, i) => {
+
+        tip.transition()
+          .duration(200) // <<<<<<<<========== tweak this to your liking
+          .style("opacity", 0);
+
+     })
+
+// ******************
+// Handle annotations
+// ******************
+
+// First, setup an arrow we can re-use (tho we're only using it 2x)
+
+svg.append("defs")
+   .append("marker")
+   .attr("id", "arrow")
+   .attr("markerUnits", "strokeWidth")
+   .attr("markerHeight", "12")
+   .attr("markerWidth", "12")
+   .attr("viewBox", "0 0 12 12")
+   .attr("refX", "6")
+   .attr("refY", "6")
+   .attr("orient", "auto")
+   .append("path")
+   .attr("d", "M2,2 L10,6 L2,10 L6,6 L2,2")
+   .attr("style", "fill: #2b2b2b")
+
+// Now, setup the text labels for placement
+
+var annot = [
+  { country: "China", year: "1870", percent: 0.325 },
+  { country: "Ireland", year: "1880", percent: 0.11 },
+  { country: "Germany", year: "1870", percent: 0.19 },
+  { country: "Canada", year: "1880", percent: 0.015 },
+  { country: "England", year: "1885", percent: 0.0525 },
+  { country: "Mexico", year: "2001", percent: 0.09 },
+  { country: "Italy", year: "1920", percent: 0.13 },
+  { country: "Philippines", year: "1964", percent: 0.25 },
+  { country: "Japan", year: "1921", percent: 0.25 },
+];
+
+// Place them
+
+svg.selectAll('.annotation')
+    .data(annot)
+    .enter().append("text")
+    .attr("class", "annotation")
+    .attr("x", d => x(parseYear(d.year + "-01-01")))
+    .attr("y", d => y(d.percent))
+    .style("text-anchor", "middle")
+    .text(d => d.country);
+
+// Now, setup the arrows for placement
+
+var arrows = [
+  { x1: "1970", y1: 0.25, x2: "1985", y2: 0.18  },
+  { x1: "1917", y1: 0.25, x2: "1915", y2: 0.23  }
+];
+
+// Place them
+
+svg.selectAll(".pointer")
+   .data(arrows)
+   .enter().append("line")
+   .attr("class", "pointer")
+   .attr("x1", d => x(parseYear(d.x1 + "-01-01")))
+   .attr("y1", d => y(d.y1))
+   .attr("x2", d => x(parseYear(d.x2 + "-01-01")))
+   .attr("y2", d => y(d.y2))
+   .attr("stroke", "black")
+   .attr("stroke-width", 0.75)
+   .attr("marker-end", "url(#arrow)")
+   
+// ******************
+// Handle Axes
+// ******************
+
+// X-Axis line, ticks and text
+
+svg.append("g")
+    .attr("class", "axis")
+    .attr("transform", "translate(0," + height + ")")
+    .call(d3.axisBottom(x).ticks(8).tickFormat(d3.timeFormat("%Y")))
+
+// X-Axis title
+
+svg.append("text")    
+    .attr("class", "axis-title")         
+    .attr("transform",
+          "translate(" + (width/2) + " ," + 
+                          (height + margin.top + 20) + ")")
+    .style("text-anchor", "middle")
+    .text("Year");
+
+// Y-Axis line, ticks and text
+
+svg.append("g")
+    .attr("class", "axis")
+    .call(d3.axisLeft(y).ticks(5).tickFormat(d3.format(".0%")));
+
+// Y-Axis title
+
+svg.append("text")
+    .attr("class", "axis-title")         
+    .attr("transform", "rotate(-90)")
+    .attr("y", 0 - margin.left)
+    .attr("x",0 - (height / 2))
+    .attr("dy", "1em")
+    .style("text-anchor", "middle")
+    .text("Percent");  
+
+})
+
+</script>
+</body>
+</html>
